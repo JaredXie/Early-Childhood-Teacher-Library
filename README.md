@@ -6,4 +6,4 @@ This include general topics for any age groups and those classified in terms of 
 
 Since babies (0-1) mostly develop on sensory, caring and simple reactions to the world and carers, there is no need to provide flaring activities. 
 
-Our library only collect those for toddlers (1-2year old) and kinders (3-5). 
+Our library only collect those for [toddlers](./Toddler.md) (1-2year old) and [kinders](./Kinder.md) (3-5). 
