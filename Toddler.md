@@ -1,6 +1,11 @@
 # Toddler
 
-## Group time (15-20min)
+## Group time (12-20min)
+
+---
+Group time: approximately 10–15 minutes, extended to 20 minutes depending on children’s engagement
+
+---
 
 Settle children (2-3min)
 - let's make a circle song (2min)
