@@ -1,6 +1,6 @@
 # Toddler
 
-## Group time (20min)
+## Group time (15-20min)
 
 Settle children (2-3min)
 - let's make a circle song (2min)
