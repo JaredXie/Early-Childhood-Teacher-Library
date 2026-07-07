@@ -45,7 +45,7 @@ Group time is finished. Now we are going to play/do our activity
 
 ## Topics
 
-Some times we run out of ideas, here is a [map](./docs/Toddlers-Mind-Map-A3) for your reference
+Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) for reference.
 
 ### Animal
 
@@ -63,6 +63,8 @@ Some times we run out of ideas, here is a [map](./docs/Toddlers-Mind-Map-A3) for
 ## Songs library
 
 ### indoor movement and emotional regulation songs
+- inanay
+- tabanaba
 - Fuzzy the clown ([Demo video](https://www.youtube.com/watch?v=gg18-mbjPjI) and [Music version](https://www.youtube.com/watch?v=8LPUA4_MQhE&list=RD8LPUA4_MQhE&start_radio=1))
 - Open shut them
 - Sleeping bunny
