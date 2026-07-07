@@ -89,5 +89,5 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 
 
 ## Activity library
-- [Sensory-colourwater](./docs/Sensory-color-water)
+- [Sensory-colourwater](./docs/Sensory-color-water.mp4)
 
