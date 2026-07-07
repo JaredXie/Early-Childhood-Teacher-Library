@@ -16,7 +16,8 @@ Group time: approximately 10–15 minutes, extended to 20 minutes depending on c
 | New topic introduction and teaching | 3–5 min | - Use real objects, pictures, tools (resources related to activities, puppets)<br>- Ask simple questions | Introduce the learning focus in a concrete way |
 | Closing / transition *| 1 min | - see you later alligator song, or<br>- encourage children to do the taught activity, or <br>- ask names for washing hands before meals | Signal the end and support a calm transition |
 
-* Those stars ones should be normally fixed for a well-structured routine
+"*" Those stars ones should be normally fixed for a well-structured routine
+
 ---
 Ending
 - [See you later alligator (30s)](https://www.youtube.com/shorts/dFv8YManxZk)
