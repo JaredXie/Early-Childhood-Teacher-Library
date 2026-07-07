@@ -68,6 +68,7 @@ Group time is finished. Now we are going to play/do our activity
 - one little finger
 - bee bee bumble bee (before washing hands)
 - Rain, rain go away
+- itsy bitsy spider ([demo video](https://www.youtube.com/shorts/p3uGY_-kEp0))
 - 
 ### outdoor movement songs
 - Choochoowa
