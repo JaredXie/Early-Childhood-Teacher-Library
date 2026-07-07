@@ -7,7 +7,7 @@ Group time: approximately 10–15 minutes, extended to 20 minutes depending on c
 
 ---
 
-| Sessions | Time | Activity | Purpose |
+| Routine | Time | Activity | Purpose |
 |---|---:|---|---|
 | Settle children | 2–3 min | - “Let’s Make a Circle, circle, circle” instruction song<br>- Sit on the mat<br>- Simple clapping | Help children join the group and understand group time is starting |
 | Emotional regulation | 2–3 min | - Smell the flower, blow the candle<br>- Peel Banana song | Support breathing, body awareness and emotional readiness |
