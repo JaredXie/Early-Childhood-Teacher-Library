@@ -14,7 +14,7 @@ Group time: approximately 10–15 minutes, extended to 20 minutes depending on c
 | Acknowledgement of Country *| 2–3 min | - Short oral acknowledgement (land,sky,friends,I)<br>- [Inanay song](https://www.youtube.com/watch?v=_yxW57WzrTY&list=RD_yxW57WzrTY&start_radio=1) | Build respectful daily routine |
 | Familiar movement song | 3–4 min | - Sleeping Bunnies<br>- Slippery Fish<br>- Baby Shark<br><br>Choose 1–2 songs only | Keep toddlers engaged through movement and rhythm |
 | New topic introduction and teaching | 3–5 min | - Use real objects, pictures, tools (resources related to activities, puppets)<br>- Ask simple questions | Introduce the learning focus in a concrete way |
-| Closing / transition *| 1 min | - see you later alligator song, or<br>-encourage children to do the taught activity | Signal the end and support a calm transition |
+| Closing / transition *| 1 min | - see you later alligator song, or<br>- encourage children to do the taught activity, or <br>- ask names for washing hands before meals | Signal the end and support a calm transition |
 
 * Those stars ones should be normally fixed for a well-structured routine
 ---
@@ -59,12 +59,25 @@ Group time is finished. Now we are going to play/do our activity
 
 
 ## Songs library
+
+### indoor movement and emotional regulation songs
+- Open shut them
+- Sleeping bunny
+- Slippery fish
+- one little finger
+- bee bee bumble bee (before washing hands)
 ### outdoor movement songs
+- Choochoowa
 - Hot potato
 - Freeze dance
 - Bear hunt
+- Baby Shark (crazy version)
+- Walking in the jungle
+- Head, shoulders, knees, and toes
 - 
-### indoor movement and emotional regulation songs
+- 
+- 
+
 
 
 ## Activity library
