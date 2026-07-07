@@ -2,22 +2,26 @@
 
 ## Group time (20min)
 
-Settle children
-- lets make a circle song (2min)
-- sit on the mat and clap
-regulation
+Settle children (2-3min)
+- let's make a circle song (2min)
+- sit on the mat and clap (1min)
+
+Emotional Regulation (4-5min)
 - smell flower blow flower (2min)
 - peel banana song (2min)
-acknowledge the country 
+
+Acknowledge the country (3min)
 - oral acknowledgment 
 - inanay (2min)
-Songs they like (regulation/handmovement)
+
+Songs/Activities they like (regulation/hand movement)
 - sleeping bunny (2min)
 - baby shark (2min)
-- slippery fish swiming in the water (2min)
-Teaching new topic
+- slippery fish swimming in the water (2min)
+
+Teaching a new topic
 - teaching learning intention activity (3-5min)
-- encourage children to do the topic activities
+- encouraging children to do the topic activities
 
 end
 
