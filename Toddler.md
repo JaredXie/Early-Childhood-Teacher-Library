@@ -9,8 +9,8 @@ Group time: approximately 10–15 minutes, extended to 20 minutes depending on c
 
 | Routine | Time | Activity | Purpose |
 |---|---:|---|---|
-| Settle children | 2–3 min | - “Let’s Make a Circle, circle, circle” instruction song<br>- Sit on the mat<br>- Simple clapping | Help children join the group and understand group time is starting |
-| Emotional regulation | 2–3 min | - Smell the flower, blow the candle<br>- Peel Banana song | Support breathing, body awareness and emotional readiness |
+| Settle children | 2–3 min |Instruction songs <br>- “Let’s Make a Circle, circle, circle”<br>- Sit on the mat and clap | Help children join the group and understand group time is starting |
+| Emotional regulation | 2–3 min | - Smell the flower, blow the flower<br>- Peel Banana song | Support breathing, body awareness and emotional readiness |
 | Acknowledgement of Country | 2–3 min | - Short oral acknowledgement<br>- Inanay song | Build respectful daily routine |
 | Familiar movement song | 3–4 min | - Sleeping Bunnies<br>- Slippery Fish<br>- Baby Shark<br><br>Choose 1–2 songs only | Keep toddlers engaged through movement and rhythm |
 | New topic introduction and teaching | 3–5 min | - Use real objects<br>- Use pictures<br>- Use puppets<br>- Ask simple questions | Introduce the learning focus in a concrete way |
