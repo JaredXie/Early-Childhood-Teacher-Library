@@ -7,26 +7,14 @@ Group time: approximately 10–15 minutes, extended to 20 minutes depending on c
 
 ---
 
-Settle children 
-- let's make a circle song (2min)
-- sit on the mat and clap (1min)
-
-Emotional Regulation 
-- smell flower blow flower (2min)
-- peel banana song (2min)
-
-Acknowledge the country
-- oral acknowledgment 
-- inanay (2min)
-
-Songs/Activities they like (regulation/hand movement)
-- sleeping bunny (2min)
-- baby shark (2min) 
-- [slippery fish swimming in the water (2min)](https://www.youtube.com/watch?v=4O6VTOn7yao&list=RD4O6VTOn7yao&start_radio=1) 
-
-Teaching a new topic
-- teaching learning intention activity (3-5min)
-- encouraging children to do the topic activities (to end the grouptime)
+| Part | Time | Activity | Purpose |
+|---|---:|---|---|
+| Settle children | 2–3 min | - “Let’s Make a Circle, circle, circle” instruction song<br>- Sit on the mat<br>- Simple clapping | Help children join the group and understand group time is starting |
+| Emotional regulation | 2–3 min | - Smell the flower, blow the candle<br>- Peel Banana song | Support breathing, body awareness and emotional readiness |
+| Acknowledgement of Country | 2–3 min | - Short oral acknowledgement<br>- Inanay song | Build respectful daily routine |
+| Familiar movement song | 3–4 min | - Sleeping Bunnies<br>- Slippery Fish<br>- Baby Shark<br><br>Choose 1–2 songs only | Keep toddlers engaged through movement and rhythm |
+| New topic introduction | 3–5 min | - Use real objects<br>- Use pictures<br>- Use puppets<br>- Ask simple questions | Introduce the learning focus in a concrete way |
+| Closing / transition | 1 min | - see you later alligator song, or<br>-encourage children to do the taught activity | Signal the end and support a calm transition |
 
 ---
 Ending
