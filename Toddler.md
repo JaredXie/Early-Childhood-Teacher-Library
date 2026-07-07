@@ -59,6 +59,12 @@ Group time is finished. Now we are going to play/do our activity
 
 
 ## Songs library
+### outdoor movement songs
+- Hot potato
+- Freeze dance
+- Bear hunt
+- 
+### indoor movement and emotional regulation songs
 
 
 ## Activity library
