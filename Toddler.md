@@ -45,7 +45,7 @@ Group time is finished. Now we are going to play/do our activity
 
 ## topics
 
-###Animal
+### Animal
 
 **Grouptime teaching ideas**
 - sing and read Brown bear Brown bear what do you see
