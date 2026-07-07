@@ -66,6 +66,8 @@ Group time is finished. Now we are going to play/do our activity
 - Slippery fish
 - one little finger
 - bee bee bumble bee (before washing hands)
+- Rain, rain go away
+- 
 ### outdoor movement songs
 - Choochoowa
 - Hot potato
