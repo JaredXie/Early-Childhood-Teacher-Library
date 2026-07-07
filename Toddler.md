@@ -61,6 +61,7 @@ Group time is finished. Now we are going to play/do our activity
 ## Songs library
 
 ### indoor movement and emotional regulation songs
+- Fuzzy the clown ([Demo video](https://www.youtube.com/watch?v=gg18-mbjPjI) and [Music version](https://www.youtube.com/watch?v=8LPUA4_MQhE&list=RD8LPUA4_MQhE&start_radio=1))
 - Open shut them
 - Sleeping bunny
 - Slippery fish
