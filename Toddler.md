@@ -84,10 +84,10 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 - Head, shoulders, knees, and toes
 - 
 - 
-- 
+
 
 
 
 ## Activity library
-
+- [Sensory-colourwater](./docs/Sensory-color-water)
 
