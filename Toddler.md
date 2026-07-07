@@ -45,6 +45,8 @@ Group time is finished. Now we are going to play/do our activity
 
 ## Topics
 
+Some times we run out of ideas, here is a [map](./docs/Toddlers-Mind-Map-A3) for your reference
+
 ### Animal
 
 **Grouptime teaching ideas**
