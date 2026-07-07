@@ -43,7 +43,7 @@ Group time is finished. Now we are going to play/do our activity
 
 ---
 
-## topics
+## Topics
 
 ### Animal
 
