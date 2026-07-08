@@ -1,6 +1,6 @@
 # Toddler
 
-## Group time (12-20min)
+## Group Time (12-20min)
 
 ---
 Group time: approximately 10–15 minutes, extended to 20 minutes depending on children’s engagement
