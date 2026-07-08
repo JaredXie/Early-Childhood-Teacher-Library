@@ -50,22 +50,22 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 
 ### Animal
 
-**Grouptime teaching ideas**
+*Grouptime teaching ideas*
 - sing and read Brown bear Brown bear what do you see
 - sing o macdonal had a farm with animal toys on hand, then make the farm with children while singing. Engage children by asking about animal sounds, and where to set the animal in the farm.
 - animal sounds
 
-**Activities and setups**
+*Activities and setups*
 - toy animals and a big tree for animal farming
 
 
-### colour
+### Colour
 
-**Group time teaching ideas**
+*Group time teaching ideas*
 - match objects to the colour mat (colour papers and objects with different colours)
 - 
 
-**Activities and setups**
+*Activities and setups*
 - colour papers stick on the table and colourful objects such as Lego blocks in the middle
 
 ## Songs library
