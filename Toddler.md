@@ -10,7 +10,7 @@ Group time: approximately 10–15 minutes, extended to 20 minutes depending on c
 | Routine | Time | Activity | Purpose |
 |---|---:|---|---|
 | Settle children *| 2–3 min |Instruction songs <br>- “Let’s Make a Circle, circle, circle”<br>- [Sit on the mat and clap](https://www.youtube.com/watch?v=h6xQqjd649s&list=RDh6xQqjd649s&start_radio=1) | Help children join the group and understand group time is starting |
-| Emotional regulation *| 2–3 min | - Smell the flower, blow the flower<br>- Banana unite song | Support breathing, body awareness and emotional readiness |
+| Emotional regulation *| 2–3 min | - Smell the flower, blow the flower<br>- [Banana unite song](https://www.youtube.com/shorts/lWQ82Bcjrx0) | Support breathing, body awareness and emotional readiness |
 | Acknowledgement of Country *| 2–3 min | - Short oral acknowledgement (land,sky,friends,I)<br>- [Inanay song](https://www.youtube.com/watch?v=_yxW57WzrTY&list=RD_yxW57WzrTY&start_radio=1) | Build respectful daily routine |
 | Familiar movement song | 3–4 min | - Sleeping Bunnies<br>- Slippery Fish<br>- Baby Shark<br><br>Choose 1–2 songs only | Keep toddlers engaged through movement and rhythm |
 | New topic introduction and teaching | 3–5 min | - Use real objects, pictures, tools (resources related to activities, puppets)<br>- Ask simple questions | Introduce the learning focus in a concrete way |
