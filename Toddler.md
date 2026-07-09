@@ -70,7 +70,8 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 
 ## Audio library
 
-### Indoor movement and emotional regulation songs
+### Indoor movement and emotional regulation
+Songs
 - inanay
 - tabanaba
 - Fuzzy the clown ([Demo video](https://www.youtube.com/watch?v=gg18-mbjPjI) and [Music version](https://www.youtube.com/watch?v=8LPUA4_MQhE&list=RD8LPUA4_MQhE&start_radio=1))
@@ -81,8 +82,11 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 - bee bee bumble bee (before washing hands)
 - Rain, rain go away
 - itsy bitsy spider ([demo video](https://www.youtube.com/shorts/p3uGY_-kEp0))
-- Listen to Stories
-  - Three Little Piggies
+
+Listen to Stories
+  - [Three Little Pigs](https://www.youtube.com/watch?v=-9NXxlFnZcU)
+  - [The Very Hungry Caterpillar](https://www.youtube.com/watch?v=i4CPSH6eQWE)
+  - 
 ### Outdoor movement songs
 - Choochoowa
 - Hot potato
