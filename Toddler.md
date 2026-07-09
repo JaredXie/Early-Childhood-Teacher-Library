@@ -48,6 +48,16 @@ Group time is finished. Now we are going to play/do our activity
 
 Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) for reference.
 
+### Expectations of our room
+*Grouptime teaching ideas*
+- Make a Tootoo Train and tour around the room we newly set up, talking about where the toys stay and how to pack up 
+- Talk about the table setups
+- Repeat this tour to make sure children remember and be familiar with the learning environment 
+
+*Activities and setups*
+- N/A, just put plants, loose parts, or something beautiful on the tables
+
+
 ### Animal
 
 *Grouptime teaching ideas*
