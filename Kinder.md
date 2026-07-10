@@ -10,9 +10,9 @@
 
 ---
 
-# 🌞 January
+### 🌞 January
 
-## Possible Themes
+#### Possible Themes
 
 - Welcome to Kinder
 - Building Relationships
@@ -20,14 +20,14 @@
 - Summer
 - Water Safety
 
-## Learning Focus
+#### Learning Focus
 
 - Establish routines
 - Sense of Belonging (EYLF Outcome 1)
 - Making friends
 - SunSmart practices
 
-## Activity Ideas
+#### Activity Ideas
 
 - Name games
 - Self-portraits
@@ -36,16 +36,16 @@
 
 ---
 
-# ❤️ February
+### ❤️ February
 
-## Possible Themes
+#### Possible Themes
 
 - Lunar New Year *(if applicable)*
 - Valentine's Day *(Kindness & Friendship)*
 - Emotions
 - Friendship
 
-## Activity Ideas
+#### Activity Ideas
 
 - Chinese cultural experiences
 - Family traditions
@@ -54,19 +54,19 @@
 
 ---
 
-# 🌈 March
+### 🌈 March
 
-## Key Events
+#### Key Events
 
 - Harmony Week ⭐⭐⭐⭐⭐
 - Clean Up Australia Day
 - Autumn
 
-## Learning Focus
+#### Learning Focus
 
 > **Everyone Belongs**
 
-## Activity Ideas
+#### Activity Ideas
 
 - Different languages
 - Cultural food tasting
@@ -75,16 +75,16 @@
 
 ---
 
-# 🐰 April
+### 🐰 April
 
-## Possible Themes
+#### Possible Themes
 
 - Easter
 - ANZAC Day
 - Earth Day
 - Autumn
 
-## Activity Ideas
+#### Activity Ideas
 
 - Nature collage
 - Gardening
@@ -93,15 +93,15 @@
 
 ---
 
-# 📚 May
+### 📚 May
 
-## Key Events
+#### Key Events
 
 - National Simultaneous Storytime
 - National Reconciliation Week
 - Mother's Day
 
-## Activity Ideas
+#### Activity Ideas
 
 - Storytelling
 - Indigenous stories
@@ -110,15 +110,15 @@
 
 ---
 
-# 🌿 June
+### 🌿 June
 
-## Possible Themes
+#### Possible Themes
 
 - Winter
 - Sustainability
 - World Environment Day
 
-## Activity Ideas
+#### Activity Ideas
 
 - Recycling
 - Weather observation
@@ -127,13 +127,13 @@
 
 ---
 
-# 🖤💛❤️ July
+### 🖤💛❤️ July
 
-# ⭐ NAIDOC Week
+⭐ NAIDOC Week
 
 One of the most important events in Australian Early Childhood Education.
 
-## Learning Focus
+##### Learning Focus
 
 - Aboriginal cultures
 - Torres Strait Islander cultures
@@ -146,13 +146,13 @@ One of the most important events in Australian Early Childhood Education.
 
 ---
 
-# 🔬 August
+### 🔬 August
 
 One of the busiest months for ECTs.
 
-## ⭐ National Science Week
+⭐ National Science Week
 
-### STEM Ideas
+#### STEM Ideas
 
 - Volcanoes
 - Magnets
@@ -165,9 +165,9 @@ One of the busiest months for ECTs.
 
 ---
 
-## ⭐ Book Week
+⭐ Book Week
 
-### Activity Ideas
+#### Activity Ideas
 
 - Dress Up Day
 - Favourite books
@@ -177,15 +177,15 @@ One of the busiest months for ECTs.
 
 ---
 
-# 🌸 September
+### 🌸 September
 
-## Possible Themes
+#### Possible Themes
 
 - Father's Day
 - R U OK? Day
 - Spring
 
-## Activity Ideas
+#### Activity Ideas
 
 - Growing flowers
 - Butterflies
@@ -195,11 +195,11 @@ One of the busiest months for ECTs.
 
 ---
 
-# 🍃 October
+### 🍃 October
 
-## Children's Week
+Children's Week
 
-### Learning Focus
+#### Learning Focus
 
 Children's Voice
 
@@ -207,15 +207,15 @@ Children actively participate in planning, decision-making and learning experien
 
 ---
 
-# 🌏 November
+### 🌏 November
 
-## Possible Themes
+#### Possible Themes
 
 - Remembrance Day
 - Community Helpers
 - Transition to School
 
-## Activity Ideas
+#### Activity Ideas
 
 - Visit Prep classroom
 - Independence skills
@@ -224,15 +224,15 @@ Children actively participate in planning, decision-making and learning experien
 
 ---
 
-# 🎄 December
+### 🎄 December
 
-## Possible Themes
+#### Possible Themes
 
 - Christmas
 - Reflection
 - Summer
 
-## Activity Ideas
+#### Activity Ideas
 
 - Family celebrations
 - Looking back on the year
@@ -241,7 +241,7 @@ Children actively participate in planning, decision-making and learning experien
 
 ---
 
-# 🌱 Year-round Learning Priorities
+### 🌱 Year-round Learning Priorities
 
 These learning areas are embedded throughout the year.
 
@@ -259,7 +259,7 @@ These learning areas are embedded throughout the year.
 
 ---
 
-# Planning Tip
+### Planning Tip
 
 Experienced ECTs rarely plan around events alone.
 
@@ -271,7 +271,7 @@ Instead, they combine:
 - EYLF outcomes
 - Family and community connections
 
-## Example
+#### Example
 
 **Children's Interest**
 
@@ -291,7 +291,7 @@ Instead, they combine:
 
 ---
 
-# STEM Advantage for ECTs
+### STEM Advantage for ECTs
 
 If you have a STEM or Physics background, you can design engaging inquiry-based experiences such as:
 
@@ -308,7 +308,7 @@ These experiences align well with the **EYLF inquiry approach** and can become o
 
 ---
 
-# Annual Planning Formula
+### Annual Planning Formula
 
 A simple planning approach:
 
