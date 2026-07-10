@@ -201,9 +201,9 @@ Children's Week
 
 #### Learning Focus
 
-Children's Voice
+- Children's Voice
 
-Children actively participate in planning, decision-making and learning experiences.
+- Children actively participate in planning, decision-making and learning experiences.
 
 ---
 
