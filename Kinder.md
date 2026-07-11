@@ -15,11 +15,10 @@ Suggested Duration
 
 15–20 minutes
 
----
 
 ### Routine
 
-### 1. Welcome Song
+1. Welcome Song
 
 Children gather together and transition from play to group learning.
 
@@ -29,9 +28,8 @@ Examples:
 - Greeting songs
 - Name songs
 
----
 
-### 2. Acknowledgement of Country
+2. Acknowledgement of Country
 
 A respectful way to recognise Aboriginal and Torres Strait Islander peoples and connection to Country.
 
@@ -43,7 +41,7 @@ Examples:
 
 ---
 
-### 3. Welcome & Roll Call
+3. Welcome & Roll Call
 
 Activities:
 
@@ -57,9 +55,8 @@ Learning Focus:
 - Identity
 - Communication
 
----
 
-### 4. Feelings Check-in
+4. Feelings Check-in
 
 Children share how they feel.
 
@@ -75,9 +72,9 @@ Questions:
 - What makes you feel happy?
 - What can we do if we feel upset?
 
----
 
-### 5. Weather & Seasonal Discussion
+
+5. Weather & Seasonal Discussion
 
 Discuss:
 
@@ -86,9 +83,9 @@ Discuss:
 - Clothing choices
 - Nature observations
 
----
 
-### 6. Daily Plan Introduction
+
+6. Daily Plan Introduction
 
 Educator introduces:
 
@@ -102,13 +99,13 @@ Example:
 
 ---
 
-### 7. Transition Song
+7. Transition Song
 
 Children move to morning tea.
 
 ---
 
-## EYLF Links
+EYLF Links
 
 - Outcome 1: Children have a strong sense of identity
 - Outcome 3: Children have a strong sense of wellbeing
@@ -116,30 +113,30 @@ Children move to morning tea.
 
 ---
 
-## ☀️ Midday Group Time (Before Lunch)
+### ☀️ Midday Group Time (Before Lunch)
 
-### Purpose
+Purpose
 
 - Extend children's learning
 - Provide intentional teaching
 - Encourage discussion and inquiry
 - Consolidate children's experiences
 
-### Suggested Duration
+Suggested Duration
 
 15–25 minutes
 
 ---
 
-## Routine
+### Routine
 
-### 1. Gathering Song
+1. Gathering Song
 
 Signal children to transition into group time.
 
----
 
-### 2. Review Morning Experiences
+
+2. Review Morning Experiences
 
 Discussion:
 
@@ -147,45 +144,45 @@ Discussion:
 - What did you discover?
 - What questions do you have?
 
----
 
-### 3. Intentional Teaching Experience
+
+3. Intentional Teaching Experience
 
 Possible areas:
 
-## Literacy
+Literacy
 
 - Story reading
 - Phonics awareness
 - Vocabulary development
 
-## Numeracy
+Numeracy
 
 - Counting
 - Patterns
 - Measurement
 
-## STEM
+STEM
 
 - Experiments
 - Predictions
 - Observations
 
-## Sustainability
+Sustainability
 
 - Nature
 - Recycling
 - Gardening
 
-## First Nations Perspectives
+First Nations Perspectives
 
 - Stories
 - Culture
 - Connection to Country
 
----
 
-### 4. Open-ended Questions
+
+4. Open-ended Questions
 
 Examples:
 
@@ -194,9 +191,9 @@ Examples:
 - How could we solve this problem?
 - What else could we try?
 
----
 
-### 5. Transition to Lunch
+
+5. Transition to Lunch
 
 - Pack away resources
 - Wash hands
@@ -204,24 +201,24 @@ Examples:
 
 ---
 
-## EYLF Links
+EYLF Links
 
 - Outcome 4: Children are confident and involved learners
 - Outcome 5: Children are effective communicators
 
 ---
 
-# 🌿 Rest Time / Calming Experiences (After Lunch)
+###🌿 Rest Time / Calming Experiences (After Lunch)
 
-### Purpose
+Purpose
 
 - Support children's wellbeing
 - Help children regulate emotions
 - Provide quiet recovery time
 
----
 
-## Possible Activities
+
+Possible Activities
 
 - Relaxing music
 - Story listening
@@ -233,7 +230,7 @@ Examples:
 - Looking at books
 - Sensory activities
 
----
+--- 
 
 ## EYLF Links
 
@@ -242,30 +239,30 @@ Examples:
 
 ---
 
-# 🌇 Afternoon Group Time (After Afternoon Tea)
+### 🌇 Afternoon Group Time (After Afternoon Tea)
 
-### Purpose
+Purpose
 
 - Reflect on children's learning
 - Build communication skills
 - Celebrate achievements
 - Prepare for home transition
 
-### Suggested Duration
+Suggested Duration
 
 10–15 minutes
 
----
 
-## Routine
 
-### 1. Welcome Back Song
+### Routine
+
+1. Welcome Back Song
 
 Children transition from afternoon play.
 
----
 
-### 2. Reflection Circle
+
+2. Reflection Circle
 
 Children share:
 
@@ -274,9 +271,9 @@ Children share:
 - What was challenging?
 - Who did you play with?
 
----
 
-### 3. Sharing Children's Learning
+
+3. Sharing Children's Learning
 
 Educator can share:
 
@@ -285,9 +282,9 @@ Educator can share:
 - Children's creations
 - Observations
 
----
 
-### 4. Group Discussion
+
+4. Group Discussion
 
 Topics:
 
@@ -296,9 +293,9 @@ Topics:
 - Problem solving
 - Tomorrow's ideas
 
----
 
-### 5. Story / Music / Goodbye Activity
+
+5. Story / Music / Goodbye Activity
 
 Examples:
 
@@ -317,7 +314,7 @@ Examples:
 
 ---
 
-# Daily Group Time Overview
+### Daily Group Time Overview
 
 | Time | Group Time | Main Purpose |
 |------|------------|--------------|
