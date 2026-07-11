@@ -1,6 +1,329 @@
 # Kinder
 
-## Group time routine
+# Group Time Routine (3–5 Years Old)
+
+## 🌞 Morning Group Time (Before Morning Tea)
+
+### Purpose
+
+- Welcome children and build a sense of belonging
+- Establish daily routine
+- Support children's emotional wellbeing
+- Introduce the day's learning experiences
+
+### Suggested Duration
+
+15–20 minutes
+
+---
+
+## Routine
+
+### 1. Welcome Song
+
+Children gather together and transition from play to group learning.
+
+Examples:
+
+- Hello songs
+- Greeting songs
+- Name songs
+
+---
+
+### 2. Acknowledgement of Country
+
+A respectful way to recognise Aboriginal and Torres Strait Islander peoples and connection to Country.
+
+Examples:
+
+- Daily Acknowledgement of Country
+- Children's participation
+- Using visual resources
+
+---
+
+### 3. Welcome & Roll Call
+
+Activities:
+
+- Name recognition
+- Counting children
+- Discussing who is here today
+
+Learning Focus:
+
+- Belonging
+- Identity
+- Communication
+
+---
+
+### 4. Feelings Check-in
+
+Children share how they feel.
+
+Resources:
+
+- Emotion cards
+- Feelings chart
+- Puppet conversations
+
+Questions:
+
+- How are you feeling today?
+- What makes you feel happy?
+- What can we do if we feel upset?
+
+---
+
+### 5. Weather & Seasonal Discussion
+
+Discuss:
+
+- Weather today
+- Season changes
+- Clothing choices
+- Nature observations
+
+---
+
+### 6. Daily Plan Introduction
+
+Educator introduces:
+
+- Today's experiences
+- Special events
+- Children's responsibilities
+
+Example:
+
+"Today we are going to investigate shadows outside."
+
+---
+
+### 7. Transition Song
+
+Children move to morning tea.
+
+---
+
+## EYLF Links
+
+- Outcome 1: Children have a strong sense of identity
+- Outcome 3: Children have a strong sense of wellbeing
+- Outcome 5: Children are effective communicators
+
+---
+
+# ☀️ Midday Group Time (Before Lunch)
+
+### Purpose
+
+- Extend children's learning
+- Provide intentional teaching
+- Encourage discussion and inquiry
+- Consolidate children's experiences
+
+### Suggested Duration
+
+15–25 minutes
+
+---
+
+## Routine
+
+### 1. Gathering Song
+
+Signal children to transition into group time.
+
+---
+
+### 2. Review Morning Experiences
+
+Discussion:
+
+- What did you play today?
+- What did you discover?
+- What questions do you have?
+
+---
+
+### 3. Intentional Teaching Experience
+
+Possible areas:
+
+## Literacy
+
+- Story reading
+- Phonics awareness
+- Vocabulary development
+
+## Numeracy
+
+- Counting
+- Patterns
+- Measurement
+
+## STEM
+
+- Experiments
+- Predictions
+- Observations
+
+## Sustainability
+
+- Nature
+- Recycling
+- Gardening
+
+## First Nations Perspectives
+
+- Stories
+- Culture
+- Connection to Country
+
+---
+
+### 4. Open-ended Questions
+
+Examples:
+
+- What do you think will happen?
+- Why do you think that?
+- How could we solve this problem?
+- What else could we try?
+
+---
+
+### 5. Transition to Lunch
+
+- Pack away resources
+- Wash hands
+- Prepare for lunch
+
+---
+
+## EYLF Links
+
+- Outcome 4: Children are confident and involved learners
+- Outcome 5: Children are effective communicators
+
+---
+
+# 🌿 Rest Time / Calming Experiences (After Lunch)
+
+### Purpose
+
+- Support children's wellbeing
+- Help children regulate emotions
+- Provide quiet recovery time
+
+---
+
+## Possible Activities
+
+- Relaxing music
+- Story listening
+- Yoga
+- Breathing exercises
+- Mindfulness
+- Drawing
+- Quiet puzzles
+- Looking at books
+- Sensory activities
+
+---
+
+## EYLF Links
+
+- Outcome 3: Wellbeing
+- Outcome 4: Learning
+
+---
+
+# 🌇 Afternoon Group Time (After Afternoon Tea)
+
+### Purpose
+
+- Reflect on children's learning
+- Build communication skills
+- Celebrate achievements
+- Prepare for home transition
+
+### Suggested Duration
+
+10–15 minutes
+
+---
+
+## Routine
+
+### 1. Welcome Back Song
+
+Children transition from afternoon play.
+
+---
+
+### 2. Reflection Circle
+
+Children share:
+
+- What did you enjoy today?
+- What did you learn?
+- What was challenging?
+- Who did you play with?
+
+---
+
+### 3. Sharing Children's Learning
+
+Educator can share:
+
+- Photos
+- Learning stories
+- Children's creations
+- Observations
+
+---
+
+### 4. Group Discussion
+
+Topics:
+
+- Kindness
+- Friendship
+- Problem solving
+- Tomorrow's ideas
+
+---
+
+### 5. Story / Music / Goodbye Activity
+
+Examples:
+
+- Favourite story
+- Songs
+- Puppet show
+- Goodbye song
+
+---
+
+## EYLF Links
+
+- Outcome 1: Identity
+- Outcome 3: Wellbeing
+- Outcome 5: Communication
+
+---
+
+# Daily Group Time Overview
+
+| Time | Group Time | Main Purpose |
+|------|------------|--------------|
+| Morning | Before Morning Tea | Welcome & Daily Planning |
+| Midday | Before Lunch | Intentional Teaching & Inquiry |
+| Afternoon | After Afternoon Tea | Reflection & Transition |
 
 
 
