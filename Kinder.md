@@ -376,39 +376,17 @@ Then students go for afternoon tea, after that, free play until the family come 
 - Puzzles
 - Mindfulness
 
-### 🌇 Late Afternoon Group Time (Optional before home)
+---
 
-*Purpose*
+### 🌇 Late Afternoon Group Time (Optional before home, usually when it is rainy and some children are picked up so late)
 
-- Reflect on children's learning
-- Build communication skills
-- Celebrate achievements
-- Prepare for home transition
-
-*Suggested Duration*
-
-10–15 minutes
-
---- 
 
 **1. Welcome Back Song**
 
 Children transition from afternoon play.
 
 
-
-**2. Reflection Circle** (skip if you did in afternoon group time)
-
-Children share:
-
-- What did you enjoy today?
-- What did you learn?
-- What was challenging?
-- Who did you play with?
-
-
-
-**3. Sharing Children's Learning** 
+**2. Sharing Children's Learning** 
 
 Educator can share:
 
@@ -418,10 +396,7 @@ Educator can share:
 - Observations
 
 
-
-**4. Group Discussion**
-
-Topics:
+Discussion:
 
 - Kindness
 - Friendship
@@ -430,7 +405,7 @@ Topics:
 
 
 
-**5. Story / Music / Goodbye Activity**
+**3. Story / Music / Goodbye Activity**
 
 Examples:
 
