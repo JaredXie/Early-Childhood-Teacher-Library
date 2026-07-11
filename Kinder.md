@@ -4,59 +4,48 @@
 
 ### 🌞 Morning Group Time (Before Morning Tea)
 
-Purpose
+*Purpose*
 
 - Welcome children and build a sense of belonging
 - Establish daily routine
 - Support children's emotional wellbeing
 - Introduce the day's learning experiences
 
-Suggested Duration
+*Suggested Duration*
 
 15–20 minutes
 
+---
+*Routine*
 
-### Routine
+** 1. Welcome Song **
 
-1. Welcome Song
-
-Children gather together and transition from play to group learning.
-
-Examples:
-
-- Hello songs
-- Greeting songs
-- Name songs
+- Children gather together and transition from play to group learning. 
+- Children sit in the circle/ around the mat
+- Check in with 'Hello how are you song' by greeting the names of children and the teachers
 
 
-2. Acknowledgement of Country
+*Examples:*
+
+- Hello how are you, hello how are you, hello how are you how are you today? It's nice to see (Name) here... ()
+- ...
+
+
+
+** 2. Acknowledgement of Country **
 
 A respectful way to recognise Aboriginal and Torres Strait Islander peoples and connection to Country.
 
-Examples:
+*Examples:*
 
-- Daily Acknowledgement of Country
+- Daily Acknowledgement of Country (Essential)
+- singing inanay and tabanaba
 - Children's participation
 - Using visual resources
+- ...
 
 
-
-3. Welcome & Roll Call
-
-Activities:
-
-- Name recognition
-- Counting children
-- Discussing who is here today
-
-Learning Focus:
-
-- Belonging
-- Identity
-- Communication
-
-
-4. Feelings Check-in
+** 3. Feelings Check-in**
 
 Children share how they feel.
 
@@ -74,14 +63,16 @@ Questions:
 
 
 
-5. Weather & Seasonal Discussion
+** 4. Weather, Seasonal, week, date, continent Discussion **
 
 Discuss:
 
-- Weather today
-- Season changes
-- Clothing choices
-- Nature observations
+- Weather today (singing 'What's the weather song', then ask children to answer)
+- Season changes (singing 'season song', include nature observations, then ask children to answer)
+- Clothing choices (after discussing the season and weather)
+- Singing '7 days in a week song'
+- Singing 'continent song'
+- ...
 
 
 
@@ -105,13 +96,6 @@ Children move to morning tea.
 
 ---
 
-EYLF Links
-
-- Outcome 1: Children have a strong sense of identity
-- Outcome 3: Children have a strong sense of wellbeing
-- Outcome 5: Children are effective communicators
-
----
 
 ### ☀️ Midday Group Time (Before Lunch)
 
