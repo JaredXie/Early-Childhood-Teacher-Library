@@ -24,9 +24,9 @@ Ending
 
 > Lyrics:
 
-See you later alligator
+> See you later alligator
 
-In a while crocodile 
+> In a while crocodile 
 
 Give a hug ladybug
 
