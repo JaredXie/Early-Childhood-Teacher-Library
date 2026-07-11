@@ -452,6 +452,8 @@ Examples:
 
 ## Australian ECT Annual Planning Calendar
 
+For details, please refer to 2026 [ECEC](https://qikkids.com.au/2026-ecec-calendar/)
+
 > Here, as summarised, is A practical annual planning guide for Early Childhood Teachers (ECTs) in Victoria, Australia.
 
 <details>
