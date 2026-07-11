@@ -330,6 +330,8 @@ Finish the group time with a calming activity before afternoon tea.
 - Calm music
 - Guided relaxation
 - Quiet visualisation
+- animal bingo
+- other learning activities...
 
 #### 7. Transition to Afternoon Tea
 
@@ -345,7 +347,9 @@ Prepare children for the next part of the daily routine.
 
 ---
 
-Then students go for free play until family come to pick up
+Then students go for afternoon tea, after that, free play until the family come to pick up. When 4pm, families may come to pick up crowdedly, so can let all children go outdoor. 
+
+
 
 ### 🌧️ Indoor Rainy Day Program
 
@@ -374,7 +378,7 @@ Then students go for free play until family come to pick up
 - Puzzles
 - Mindfulness
 
-### 🌇 Afternoon Group Time (After Afternoon Tea or before home)
+### 🌇 Late Afternoon Group Time (Optional before home)
 
 *Purpose*
 
@@ -395,7 +399,7 @@ Children transition from afternoon play.
 
 
 
-**2. Reflection Circle**
+**2. Reflection Circle** (skip if you did in afternoon group time)
 
 Children share:
 
@@ -406,7 +410,7 @@ Children share:
 
 
 
-**3. Sharing Children's Learning**
+**3. Sharing Children's Learning** 
 
 Educator can share:
 
