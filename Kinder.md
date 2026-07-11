@@ -118,8 +118,10 @@ After morning tea, children either have free play or learning activities (assign
 15–25 minutes
 
 #### Routine
+
 <details>
-<summary>Lick to see Routine</summary><details>
+<summary>Lick to see Routine</summary>
+
 
 **1. Pack up and Gathering Song**
 
