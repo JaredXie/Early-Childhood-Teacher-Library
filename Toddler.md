@@ -41,6 +41,22 @@ This group time should be calm, short and predictable. The main purpose is to he
 
 ⭐ Starred routines should usually stay fixed to support a predictable and well-structured routine.
 
+## Toddler Afternoon Group Time Routine
+
+Afternoon group time: approximately 5–10 minutes, extended to 10–15 minutes only if children are highly engaged.
+
+This group time should be relaxed and flexible. The main purpose is to help children reconnect after rest time, review the day and prepare for afternoon play or home time.
+
+| Routine | Time | Activity | Purpose |
+|---|---:|---|---|
+| Gather children gently ⭐ | 1–2 min | - Invite children to the mat<br>- Use a familiar song<br>- Example: “Come and Sit Down” or “Let’s Make a Circle” | Help children come together after rest, quiet play or afternoon routines |
+| Body wake-up / gentle movement | 2–3 min | - Stretch arms up high<br>- Wiggle fingers<br>- Touch head, shoulders, knees and toes slowly<br>- Sing a gentle action song | Support body awareness and help children re-engage after rest |
+| Reflection on the day | 2–3 min | - Show photos, objects or artwork from the day<br>- Ask simple questions<br>- Example: “What did we play today?” “Did you like painting?” | Help children recall experiences and build oral language |
+| Short song / favourite song | 2–3 min | - Choose 1 familiar song<br>- Examples: Slippery Fish, Sleeping Bunnies, Five Little Ducks<br>- Keep it short and stop before children become too excited | Support engagement, joy and group participation |
+| Goodbye / transition ⭐ | 1–2 min | - Sing “See You Later Alligator” or “Goodbye to Group Time”<br>- Say what happens next<br>- Example: “Now we are going outside” or “Now we are waiting for families.” | Signal the end of group time and support a calm transition |
+
+⭐ Starred routines should usually stay fixed to support a predictable and well-structured routine.
+
 
 ## Topics in terms of teacher intention and children's interests 
 
