@@ -22,25 +22,7 @@ Group time: approximately 10–15 minutes, extended to 20 minutes depending on c
 Ending
 - [See you later alligator (30s)](https://www.youtube.com/shorts/dFv8YManxZk)
 
-> Lyrics:
-
-> See you later alligator
-
-> In a while crocodile 
-
-Give a hug ladybug
-
-Blow a kiss jellyfish
-
-See you soon big baboon
-
-Out the door dinosaur
-
-Take care polar bear
-
-Wave goodbye butterfly
-
-Group time is finished. Now we are going to play/do our activity
+> Lyrics: See you later alligator, In a while crocodile, Give a hug ladybug, Blow a kiss jellyfish, See you soon big baboon, Out the door dinosaur, Take care polar bear, Wave goodbye butterfly. Group time is finished. Now we are going to play/do our activity
 
 ---
 
