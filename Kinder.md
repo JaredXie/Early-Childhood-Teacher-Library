@@ -78,11 +78,11 @@ Discuss:
 
 **6. Daily Plan (topic teaching) Introduction**
 
-Educator introduces:
+Educator introduces (but do not do all the activvities at once):
 
 - Today's experiences
 - Special events (if applicable, see the education calendar of your state)
-- Children's responsibilities
+- Teachers' expectations and Children's responsibilities
 
 *Example:*
 
