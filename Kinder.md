@@ -111,9 +111,10 @@ Children move to morning tea. After morning tea, children either have free play 
 
 --- 
 
-**1. Gathering Song**
+**1. Pack up and Gathering Song**
 
 Signal children to transition into group time.
+- Pack away song
 - Let's make a circle song
 - Sit on the mat and clap
 
@@ -204,11 +205,11 @@ Possible areas:
 - Looking at books
 - Sensory activities
 
- After the noon rest, children either have quite free play or learning activities (assigned by teacher in small or big groups) until afternoon tea.
+ After the noon rest, children either have quite free play or learning activities (assigned by teacher in small or big groups) until a group time before afternoon tea.
 
-## 🌇 Afternoon Group Time (Before Afternoon Tea)
+### 🌇 Afternoon Group Time (Before Afternoon Tea)
 
-### Purpose
+*Purpose*
 
 - Reflect on the day's learning experiences
 - Encourage children's voice and participation
@@ -216,11 +217,28 @@ Possible areas:
 - Strengthen relationships within the group
 - Support a calm transition to afternoon tea
 
-**Suggested Duration:** 10–15 minutes *(excluding pack away time)*
+*Suggested Duration:* 10–15 minutes *(excluding pack away time)*
 
----
+*Possible Resources*
 
-### Routine
+- Reflection cards
+- Emotion cards
+- Puppets
+- Photos of today's learning
+- Children's work samples
+- Soft background music
+
+
+*Teaching Strategies*
+
+- Active listening
+- Open-ended questioning
+- Positive reinforcement
+- Language scaffolding
+- Encouraging children's agency
+- Intentional teaching
+
+--- 
 
 #### 1. Pack Away
 
@@ -240,7 +258,6 @@ Children work together to tidy the learning environment before gathering for gro
 - Small group responsibilities
 - Positive reinforcement
 
----
 
 #### 2. Gathering Song
 
@@ -252,7 +269,7 @@ Invite children to sit together and transition into group time.
 - Hello Again Song
 - Circle Time Song
 
----
+
 
 #### 3. Reflection Circle
 
@@ -266,7 +283,7 @@ Invite children to share their experiences from the day.
 - What challenged you today?
 - What would you like to explore again tomorrow?
 
----
+
 
 #### 4. Celebrate Learning
 
@@ -288,7 +305,6 @@ Highlight children's learning, achievements and positive behaviours.
 
 > "Today I noticed Mia kept trying different ways to balance the blocks. She didn't give up."
 
----
 
 #### 5. Gratitude & Kindness
 
@@ -302,8 +318,6 @@ Encourage children to recognise positive social interactions.
 - What made someone smile today?
 - What are you thankful for today?
 
----
-
 #### 6. Mindful Moment
 
 Finish the group time with a calming activity before afternoon tea.
@@ -316,8 +330,6 @@ Finish the group time with a calming activity before afternoon tea.
 - Calm music
 - Guided relaxation
 - Quiet visualisation
-
----
 
 #### 7. Transition to Afternoon Tea
 
@@ -333,50 +345,9 @@ Prepare children for the next part of the daily routine.
 
 ---
 
-### Possible Resources
+Then students go for free play until family come to pick up
 
-- Reflection cards
-- Emotion cards
-- Puppets
-- Photos of today's learning
-- Children's work samples
-- Soft background music
-
----
-
-### EYLF Links
-
-- **Outcome 1:** Children have a strong sense of identity
-- **Outcome 2:** Children are connected with and contribute to their world
-- **Outcome 3:** Children have a strong sense of wellbeing
-- **Outcome 5:** Children are effective communicators
-
----
-
-### Teaching Strategies
-
-- Active listening
-- Open-ended questioning
-- Positive reinforcement
-- Language scaffolding
-- Encouraging children's agency
-- Intentional teaching
-
----
-
-### Learning Focus
-
-This group time provides opportunities for children to:
-
-- Reflect on their learning
-- Express their ideas and emotions
-- Celebrate achievements
-- Develop confidence and communication skills
-- Strengthen relationships with peers
-- Practise gratitude and kindness
-- Transition calmly to afternoon tea
-
-### 🌇 Afternoon Group Time (After Afternoon Tea)
+### 🌇 Afternoon Group Time (After Afternoon Tea or before home)
 
 *Purpose*
 
@@ -447,7 +418,7 @@ Examples:
 |------|------------|--------------|
 | Morning | Before Morning Tea | Welcome & Daily Planning |
 | Midday | Before Lunch | Intentional Teaching & Inquiry |
-| Afternoon | After Afternoon Tea | Reflection & Transition |
+| Afternoon | Before Afternoon Tea | Reflection & Transition |
 
 
 
