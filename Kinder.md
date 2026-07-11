@@ -1,23 +1,23 @@
 # Kinder
 
-# Group Time Routine (3–5 Years Old)
+## Group Time Routine (3–5 Years Old)
 
-## 🌞 Morning Group Time (Before Morning Tea)
+### 🌞 Morning Group Time (Before Morning Tea)
 
-### Purpose
+Purpose
 
 - Welcome children and build a sense of belonging
 - Establish daily routine
 - Support children's emotional wellbeing
 - Introduce the day's learning experiences
 
-### Suggested Duration
+Suggested Duration
 
 15–20 minutes
 
 ---
 
-## Routine
+### Routine
 
 ### 1. Welcome Song
 
@@ -116,7 +116,7 @@ Children move to morning tea.
 
 ---
 
-# ☀️ Midday Group Time (Before Lunch)
+## ☀️ Midday Group Time (Before Lunch)
 
 ### Purpose
 
