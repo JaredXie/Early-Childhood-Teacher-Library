@@ -208,7 +208,7 @@ EYLF Links
 
 ---
 
-###🌿 Rest Time / Calming Experiences (After Lunch)
+### 🌿 Rest Time / Calming Experiences (After Lunch)
 
 Purpose
 
@@ -232,7 +232,7 @@ Possible Activities
 
 --- 
 
-## EYLF Links
+EYLF Links
 
 - Outcome 3: Wellbeing
 - Outcome 4: Learning
@@ -306,7 +306,7 @@ Examples:
 
 ---
 
-## EYLF Links
+EYLF Links
 
 - Outcome 1: Identity
 - Outcome 3: Wellbeing
