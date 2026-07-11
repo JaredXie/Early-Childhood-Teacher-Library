@@ -8,7 +8,7 @@
 | Midday group time | 5–10 min | Calm down and prepare for lunch/rest | Quiet song, breathing, short story, handwashing transition |
 | Afternoon group time | 5–10 min | Reconnect and review the day | Gentle movement, reflection, favourite song, goodbye/transition song |
 
-### Toddler Morning group time (core)
+### *Toddler Morning group time (core)*
 
 > approximately 10–15 minutes, extended to 20 minutes depending on children’s engagement
 
@@ -30,7 +30,7 @@ Ending
 
 > Lyrics: See you later alligator, In a while crocodile, Give a hug ladybug, Blow a kiss jellyfish, See you soon big baboon, Out the door dinosaur, Take care polar bear, Wave goodbye butterfly. Group time is finished. Now we are going to play/do our activity
 
-### Toddler Midday Group Time Routine
+### *Toddler Midday Group Time Routine*
 
 Midday group time: approximately 5–10 minutes, depending on children’s energy level, hunger and emotional readiness.
 
@@ -46,7 +46,7 @@ This group time should be calm, short and predictable. The main purpose is to he
 
 ⭐ Starred routines should usually stay fixed to support a predictable and well-structured routine.
 
-### Toddler Afternoon Group Time Routine
+### *Toddler Afternoon Group Time Routine*
 
 Afternoon group time: approximately 5–10 minutes, extended to 10–15 minutes only if children are highly engaged.
 
@@ -67,7 +67,7 @@ This group time should be relaxed and flexible. The main purpose is to help chil
 
 Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) for your reference to observe children's interests and develop your own teaching intention. Apart from this, I also recommend we can plan our activities in terms of EYLF ([this webpage will be helpful](https://www.ectplanning.com/activities)) and education calender ([such as victoria](./Kinder.md##Australian-ECT-Annual-Planning-Calendar)) in your states. 
 
-### Expectations of our room
+### *Expectations of our room*
 *Grouptime teaching ideas*
 - Make a Tootoo Train and tour around the room we newly set up, talking about where the toys stay and how to pack up 
 - Talk about the table setups
@@ -77,7 +77,7 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 - N/A, just put plants, loose parts, or something beautiful on the tables
 
 
-### Animal
+### *Animal*
 
 *Grouptime teaching ideas*
 - sing and read Brown bear Brown bear what do you see
@@ -88,7 +88,7 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 - toy animals and a big tree for animal farming
 
 
-### Colour
+### *Colour*
 
 *Group time teaching ideas*
 - match objects to the colour mat (colour papers and objects with different colours)
@@ -99,7 +99,7 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 
 ## Audio library
 
-### Indoor movement and emotional regulation
+### *Indoor movement and emotional regulation*
 Songs
 - inanay
 - tabanaba
@@ -116,7 +116,7 @@ Listen to Stories
   - [Three Little Pigs](https://www.youtube.com/watch?v=-9NXxlFnZcU)
   - [The Very Hungry Caterpillar](https://www.youtube.com/watch?v=i4CPSH6eQWE)
   - 
-### Outdoor movement songs
+### *Outdoor movement songs*
 - Choochoowa
 - Hot potato
 - Freeze dance
