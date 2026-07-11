@@ -288,7 +288,7 @@ Invite children to sit together and transition into group time.
 
 #### 3. Reflection Circle
 
-Invite children to share their experiences from the day.
+Invite children to share their experiences from the day. (photos can be shared)
 
 **Reflection Prompts**
 
@@ -302,7 +302,7 @@ Invite children to share their experiences from the day.
 
 #### 4. Celebrate Learning
 
-Highlight children's learning, achievements and positive behaviours.
+Highlight children's learning, achievements and positive behaviours. (photos can be shared)
 
 **Examples**
 
@@ -323,7 +323,7 @@ Highlight children's learning, achievements and positive behaviours.
 
 #### 5. Gratitude & Kindness
 
-Encourage children to recognise positive social interactions.
+Encourage children to recognise positive social interactions. (teacher can share photos)
 
 **Discussion Prompts**
 
