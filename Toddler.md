@@ -46,7 +46,7 @@ Group time is finished. Now we are going to play/do our activity
 
 ## Topics in terms of teacher intention and children's interests 
 
-Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) for reference.
+Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) for your reference to observe children's interests and develop your own teaching intention. Apart from this, I also recommend we can plan our activities in terms of EYLF ([this webpage will be helpful](https://www.ectplanning.com/activities)) and education calender ([such as victoria](./kinder.md#Australian-ECT-Annual-Planning-Calendar-(Victoria))in your states. 
 
 ### Expectations of our room
 *Grouptime teaching ideas*
