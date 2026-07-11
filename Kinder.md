@@ -100,8 +100,6 @@ After morning tea, children either have free play or learning activities (assign
 
 ---
 
-
---- 
 ### ☀️ Midday Group Time (Before Lunch)
 
 *Purpose*
