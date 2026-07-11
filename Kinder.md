@@ -347,6 +347,33 @@ Prepare children for the next part of the daily routine.
 
 Then students go for free play until family come to pick up
 
+### 🌧️ Indoor Rainy Day Program
+
+#### STEM Area
+- Magnets
+- Light and shadow
+- Building challenges
+
+#### Creative Area
+- Open-ended art
+- Clay
+- Collage
+
+#### Literacy Area
+- Storytelling
+- Puppet play
+- Book making
+
+#### Construction Area
+- Loose parts
+- Blocks
+- Engineering challenges
+
+#### Quiet Area
+- Books
+- Puzzles
+- Mindfulness
+
 ### 🌇 Afternoon Group Time (After Afternoon Tea or before home)
 
 *Purpose*
