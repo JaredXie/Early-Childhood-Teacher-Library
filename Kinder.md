@@ -6,7 +6,7 @@
 
 ## Australian ECT Annual Planning Calendar (Victoria)
 
-> A practical annual planning guide for Early Childhood Teachers (ECTs) in Victoria, Australia.
+> Here as summarised is A practical annual planning guide for Early Childhood Teachers (ECTs) in Victoria, Australia.
 
 ---
 
