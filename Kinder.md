@@ -324,7 +324,7 @@ EYLF Links
 
 
 
-## Australian ECT Annual Planning Calendar (Victoria)
+## Australian ECT Annual Planning Calendar
 
 > Here as summarised is A practical annual planning guide for Early Childhood Teachers (ECTs) in Victoria, Australia.
 
