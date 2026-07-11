@@ -8,7 +8,7 @@
 | Midday group time | 5–10 min | Calm down and prepare for lunch/rest | Quiet song, breathing, short story, handwashing transition |
 | Afternoon group time | 5–10 min | Reconnect and review the day | Gentle movement, reflection, favourite song, goodbye/transition song |
 
-### Morning group time
+### Morning group time (core)
 
 > approximately 10–15 minutes, extended to 20 minutes depending on children’s engagement
 
