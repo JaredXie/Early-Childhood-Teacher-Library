@@ -254,7 +254,9 @@ When lunch is finishing, educator puts on some calm music indicating the rest ti
 - Encouraging children's agency
 - Intentional teaching
 
-
+<details>
+<summary>Lick to see Routine</summary>
+ 
 #### 1. Pack Away
 
 Children work together to tidy the learning environment before gathering for group time.
@@ -360,7 +362,7 @@ Prepare children for the next part of the daily routine.
 - Sing a transition song
 - Move to the dining area
 
----
+</details>
 
 Then students go for afternoon tea, after that, free play until the family come to pick up. When 4pm, families may come to pick up crowdedly, so can let all children go outdoor. 
 
