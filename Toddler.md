@@ -44,7 +44,7 @@ Group time is finished. Now we are going to play/do our activity
 
 ---
 
-## Topics
+## Topics in terms of teacher intention and children's interests 
 
 Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) for reference.
 
