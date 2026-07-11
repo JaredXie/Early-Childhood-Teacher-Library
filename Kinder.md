@@ -215,8 +215,9 @@ When lunch is finishing, educator puts on some calm music indicating the rest ti
 - Mindfulness
 - Drawing
 - Quiet puzzles
-- Looking at books
+- books
 - Sensory activities
+- ...
 
  After the noon rest, children either have quite free play or learning activities (assigned by teacher in small or big groups) until a group time before afternoon tea.
 
