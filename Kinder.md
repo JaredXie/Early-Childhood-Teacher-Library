@@ -91,7 +91,7 @@ Educator introduces:
 
 **7. Transition Song**
 
-Children move to morning tea.
+Children move to morning tea. After morning tea, children either have free play or learning activities (assigned by teacher in small or big groups).
 
 ---
 
@@ -177,7 +177,7 @@ Possible areas:
 **5. Transition to Lunch**
 
 - Teacher ask names and send children to Wash hands 1 by 1.
-- Another Educator Prepare for lunch
+- Another Educator Prepare for lunch. 
 
 ---
 
@@ -204,7 +204,7 @@ Possible areas:
 - Looking at books
 - Sensory activities
 
-
+ After the noon rest, children either have quite free play or learning activities (assigned by teacher in small or big groups) until afternoon tea.
 
 ### 🌇 Afternoon Group Time (After Afternoon Tea)
 
