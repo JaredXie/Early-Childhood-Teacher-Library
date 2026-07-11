@@ -25,6 +25,22 @@ Ending
 > Lyrics: See you later alligator, In a while crocodile, Give a hug ladybug, Blow a kiss jellyfish, See you soon big baboon, Out the door dinosaur, Take care polar bear, Wave goodbye butterfly. Group time is finished. Now we are going to play/do our activity
 
 ---
+## Toddler Midday Group Time Routine
+
+Midday group time: approximately 5–10 minutes, depending on children’s energy level, hunger and emotional readiness.
+
+This group time should be calm, short and predictable. The main purpose is to help children transition from active play to lunch, rest time or quiet routines.
+
+| Routine | Time | Activity | Purpose |
+|---|---:|---|---|
+| Gather and settle children ⭐ | 1–2 min | - Use a soft voice<br>- Invite children to sit on the mat<br>- Sing a short settling song<br>- Example: “Open Shut Them” slow version | Help children calm their bodies and understand that play time is finishing |
+| Short calming song or breathing ⭐ | 1–2 min | - Smell the flower, blow the candle<br>- Gentle hand actions<br>- Slow clapping or quiet body movements | Support emotional regulation before lunch or rest |
+| Short story / quiet book | 3–5 min | - Read a short picture book<br>- Use a puppet or soft toy<br>- Ask 1–2 simple questions only | Encourage listening, language development and calm attention |
+| Lunch / rest time reminder ⭐ | 1–2 min | - Briefly explain what happens next<br>- Example: “Now we will wash our hands, then have lunch.”<br>- Remind children about simple expectations | Prepare children for the next routine and reduce transition stress |
+| Transition song ⭐ | 1 min | - Sing a short transition song<br>- Example: “Wash, Wash, Wash Your Hands”<br>- Children move to handwashing or lunch | Signal the end of group time and support a smooth transition |
+
+⭐ Starred routines should usually stay fixed to support a predictable and well-structured routine.
+
 
 ## Topics in terms of teacher intention and children's interests 
 
