@@ -39,7 +39,7 @@ Examples:
 - Children's participation
 - Using visual resources
 
----
+
 
 3. Welcome & Roll Call
 
@@ -97,7 +97,7 @@ Example:
 
 "Today we are going to investigate shadows outside."
 
----
+
 
 7. Transition Song
 
@@ -126,7 +126,7 @@ Suggested Duration
 
 15–25 minutes
 
----
+
 
 ### Routine
 
