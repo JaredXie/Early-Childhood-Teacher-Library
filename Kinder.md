@@ -16,7 +16,6 @@
 15–20 minutes
 
 ---
-*Routine*
 
 **1. Welcome Song**
 
@@ -99,28 +98,27 @@ Children move to morning tea.
 
 ### ☀️ Midday Group Time (Before Lunch)
 
-Purpose
+*Purpose*
 
 - Extend children's learning
 - Provide intentional teaching
 - Encourage discussion and inquiry
 - Consolidate children's experiences
 
-Suggested Duration
+*Suggested Duration*
 
 15–25 minutes
 
+--- 
 
-
-### Routine
-
-1. Gathering Song
+**1. Gathering Song**
 
 Signal children to transition into group time.
+- Let's make a circle song
+- Sit on the mat and clap
 
 
-
-2. Review Morning Experiences
+**2. Review Morning Experiences**
 
 Discussion:
 
@@ -130,35 +128,35 @@ Discussion:
 
 
 
-3. Intentional Teaching Experience
+**3. Intentional Teaching Experience**
 
 Possible areas:
 
-Literacy
+*Literacy*
 
 - Story reading
 - Phonics awareness
 - Vocabulary development
 
-Numeracy
+*Numeracy*
 
 - Counting
 - Patterns
 - Measurement
 
-STEM
+*STEM*
 
 - Experiments
 - Predictions
 - Observations
 
-Sustainability
+*Sustainability*
 
 - Nature
 - Recycling
 - Gardening
 
-First Nations Perspectives
+*First Nations Perspectives*
 
 - Stories
 - Culture
@@ -166,9 +164,9 @@ First Nations Perspectives
 
 
 
-4. Open-ended Questions
+**4. Open-ended Questions**
 
-Examples:
+*Examples:*
 
 - What do you think will happen?
 - Why do you think that?
@@ -176,25 +174,17 @@ Examples:
 - What else could we try?
 
 
+**5. Transition to Lunch**
 
-5. Transition to Lunch
-
-- Pack away resources
-- Wash hands
-- Prepare for lunch
+- Teacher ask names and send children to Wash hands 1 by 1.
+- Another Educator Prepare for lunch
 
 ---
 
-EYLF Links
-
-- Outcome 4: Children are confident and involved learners
-- Outcome 5: Children are effective communicators
-
----
 
 ### 🌿 Rest Time / Calming Experiences (After Lunch)
 
-Purpose
+*Purpose*
 
 - Support children's wellbeing
 - Help children regulate emotions
@@ -202,7 +192,7 @@ Purpose
 
 
 
-Possible Activities
+**Possible Activities**
 
 - Relaxing music
 - Story listening
@@ -214,39 +204,30 @@ Possible Activities
 - Looking at books
 - Sensory activities
 
---- 
 
-EYLF Links
-
-- Outcome 3: Wellbeing
-- Outcome 4: Learning
-
----
 
 ### 🌇 Afternoon Group Time (After Afternoon Tea)
 
-Purpose
+*Purpose*
 
 - Reflect on children's learning
 - Build communication skills
 - Celebrate achievements
 - Prepare for home transition
 
-Suggested Duration
+*Suggested Duration*
 
 10–15 minutes
 
+--- 
 
-
-### Routine
-
-1. Welcome Back Song
+**1. Welcome Back Song**
 
 Children transition from afternoon play.
 
 
 
-2. Reflection Circle
+**2. Reflection Circle**
 
 Children share:
 
@@ -257,7 +238,7 @@ Children share:
 
 
 
-3. Sharing Children's Learning
+**3. Sharing Children's Learning**
 
 Educator can share:
 
@@ -268,7 +249,7 @@ Educator can share:
 
 
 
-4. Group Discussion
+**4. Group Discussion**
 
 Topics:
 
@@ -279,7 +260,7 @@ Topics:
 
 
 
-5. Story / Music / Goodbye Activity
+**5. Story / Music / Goodbye Activity**
 
 Examples:
 
@@ -287,14 +268,6 @@ Examples:
 - Songs
 - Puppet show
 - Goodbye song
-
----
-
-EYLF Links
-
-- Outcome 1: Identity
-- Outcome 3: Wellbeing
-- Outcome 5: Communication
 
 ---
 
@@ -310,7 +283,7 @@ EYLF Links
 
 ## Australian ECT Annual Planning Calendar
 
-> Here as summarised is A practical annual planning guide for Early Childhood Teachers (ECTs) in Victoria, Australia.
+> Here, as summarised, is A practical annual planning guide for Early Childhood Teachers (ECTs) in Victoria, Australia.
 
 ---
 
