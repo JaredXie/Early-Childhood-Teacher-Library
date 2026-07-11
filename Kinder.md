@@ -2,6 +2,7 @@
 
 ## Group Time Routine (3–5 Years Old)
 
+---
 ### 🌞 Morning Group Time (Before Morning Tea)
 
 *Purpose*
@@ -14,8 +15,6 @@
 *Suggested Duration*
 
 15–20 minutes
-
----
 
 **1. Welcome Song**
 
@@ -95,7 +94,7 @@ Children move to morning tea. After morning tea, children either have free play 
 
 ---
 
-
+--- 
 ### ☀️ Midday Group Time (Before Lunch)
 
 *Purpose*
@@ -108,8 +107,6 @@ Children move to morning tea. After morning tea, children either have free play 
 *Suggested Duration*
 
 15–25 minutes
-
---- 
 
 **1. Pack up and Gathering Song**
 
@@ -207,6 +204,8 @@ Possible areas:
 
  After the noon rest, children either have quite free play or learning activities (assigned by teacher in small or big groups) until a group time before afternoon tea.
 
+---
+
 ### 🌇 Afternoon Group Time (Before Afternoon Tea)
 
 *Purpose*
@@ -238,7 +237,6 @@ Possible areas:
 - Encouraging children's agency
 - Intentional teaching
 
---- 
 
 #### 1. Pack Away
 
