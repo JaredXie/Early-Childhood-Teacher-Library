@@ -368,7 +368,7 @@ Prepare children for the next part of the daily routine.
 
 Then students go for afternoon tea, after that, free play until the family come to pick up. When 4pm, families may come to pick up crowdedly, so can let all children go outdoor. 
 
-
+--- 
 
 ### 🌧️ Indoor Rainy Day Program
 
@@ -401,7 +401,10 @@ Then students go for afternoon tea, after that, free play until the family come 
 
 ### 🌇 Late Afternoon Group Time (Optional before home, usually when it is rainy and some children are picked up so late)
 
-
+#### Routine
+<details>
+<summary>Lick to expand the routine</summary>
+ 
 **1. Welcome Back Song**
 
 Children transition from afternoon play.
@@ -435,6 +438,8 @@ Examples:
 - Puppet show
 - Goodbye song
 
+</details>
+
 ---
 
 ### Daily Group Time Overview
@@ -450,6 +455,9 @@ Examples:
 ## Australian ECT Annual Planning Calendar
 
 > Here, as summarised, is A practical annual planning guide for Early Childhood Teachers (ECTs) in Victoria, Australia.
+
+<details>
+<summary>Lick to expand the calendar</summary>
 
 ---
 
@@ -681,6 +689,8 @@ Children's Week
 - Looking back on the year
 - Portfolio sharing
 - Celebration day
+
+</details>
 
 ---
 
