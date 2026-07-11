@@ -16,6 +16,9 @@
 
 15–20 minutes
 
+<details>
+<summary>Routine</summary>
+ 
 **1. Welcome Song**
 
 - Children gather together and transition from play to group learning. 
@@ -90,9 +93,14 @@ Educator introduces:
 
 **7. Transition Song**
 
-Children move to morning tea. After morning tea, children either have free play or learning activities (assigned by teacher in small or big groups).
+Such as bee bee bumble bee. Children move to morning tea. 
+
+</details>
+
+After morning tea, children either have free play or learning activities (assigned by teacher in small or big groups).
 
 ---
+
 
 --- 
 ### ☀️ Midday Group Time (Before Lunch)
