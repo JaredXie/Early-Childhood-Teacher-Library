@@ -16,8 +16,9 @@
 
 15–20 minutes
 
+#### Routine
 <details>
-<summary>Routine</summary>
+<summary>Lick to see Routine</summary>
  
 **1. Welcome Song**
 
