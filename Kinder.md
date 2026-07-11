@@ -206,6 +206,176 @@ Possible areas:
 
  After the noon rest, children either have quite free play or learning activities (assigned by teacher in small or big groups) until afternoon tea.
 
+## 🌇 Afternoon Group Time (Before Afternoon Tea)
+
+### Purpose
+
+- Reflect on the day's learning experiences
+- Encourage children's voice and participation
+- Celebrate achievements and positive interactions
+- Strengthen relationships within the group
+- Support a calm transition to afternoon tea
+
+**Suggested Duration:** 10–15 minutes *(excluding pack away time)*
+
+---
+
+### Routine
+
+#### 1. Pack Away
+
+Children work together to tidy the learning environment before gathering for group time.
+
+**Learning Focus**
+
+- Responsibility
+- Independence
+- Teamwork
+- Respect for the learning environment
+
+**Possible Strategies**
+
+- Pack Away Song
+- Visual pack away cues
+- Small group responsibilities
+- Positive reinforcement
+
+---
+
+#### 2. Gathering Song
+
+Invite children to sit together and transition into group time.
+
+**Examples**
+
+- Come and Sit Together
+- Hello Again Song
+- Circle Time Song
+
+---
+
+#### 3. Reflection Circle
+
+Invite children to share their experiences from the day.
+
+**Reflection Prompts**
+
+- What was your favourite part of today?
+- What did you learn or discover?
+- What made you feel proud today?
+- What challenged you today?
+- What would you like to explore again tomorrow?
+
+---
+
+#### 4. Celebrate Learning
+
+Highlight children's learning, achievements and positive behaviours.
+
+**Examples**
+
+- Artwork
+- Block constructions
+- Scientific discoveries
+- Creative ideas
+- Kindness moments
+- Teamwork
+- Problem-solving
+
+> **Focus on effort, persistence and learning rather than outcomes.**
+
+**Example**
+
+> "Today I noticed Mia kept trying different ways to balance the blocks. She didn't give up."
+
+---
+
+#### 5. Gratitude & Kindness
+
+Encourage children to recognise positive social interactions.
+
+**Discussion Prompts**
+
+- Who helped you today?
+- How did you help someone today?
+- What kind thing did you do today?
+- What made someone smile today?
+- What are you thankful for today?
+
+---
+
+#### 6. Mindful Moment
+
+Finish the group time with a calming activity before afternoon tea.
+
+**Possible Activities**
+
+- Belly breathing
+- Stretching
+- Mindful listening
+- Calm music
+- Guided relaxation
+- Quiet visualisation
+
+---
+
+#### 7. Transition to Afternoon Tea
+
+Prepare children for the next part of the daily routine.
+
+**Transition Routine**
+
+- Wash hands
+- Collect drink bottles
+- Line up calmly
+- Sing a transition song
+- Move to the dining area
+
+---
+
+### Possible Resources
+
+- Reflection cards
+- Emotion cards
+- Puppets
+- Photos of today's learning
+- Children's work samples
+- Soft background music
+
+---
+
+### EYLF Links
+
+- **Outcome 1:** Children have a strong sense of identity
+- **Outcome 2:** Children are connected with and contribute to their world
+- **Outcome 3:** Children have a strong sense of wellbeing
+- **Outcome 5:** Children are effective communicators
+
+---
+
+### Teaching Strategies
+
+- Active listening
+- Open-ended questioning
+- Positive reinforcement
+- Language scaffolding
+- Encouraging children's agency
+- Intentional teaching
+
+---
+
+### Learning Focus
+
+This group time provides opportunities for children to:
+
+- Reflect on their learning
+- Express their ideas and emotions
+- Celebrate achievements
+- Develop confidence and communication skills
+- Strengthen relationships with peers
+- Practise gratitude and kindness
+- Transition calmly to afternoon tea
+
 ### 🌇 Afternoon Group Time (After Afternoon Tea)
 
 *Purpose*
