@@ -18,7 +18,7 @@
 ---
 *Routine*
 
-** 1. Welcome Song **
+**1. Welcome Song**
 
 - Children gather together and transition from play to group learning. 
 - Children sit in the circle/ around the mat
@@ -32,7 +32,7 @@
 
 
 
-** 2. Acknowledgement of Country **
+**2. Acknowledgement of Country**
 
 A respectful way to recognise Aboriginal and Torres Strait Islander peoples and connection to Country.
 
@@ -45,7 +45,7 @@ A respectful way to recognise Aboriginal and Torres Strait Islander peoples and 
 - ...
 
 
-** 3. Feelings Check-in**
+**3. Feelings Check-in**
 
 Children share how they feel.
 
