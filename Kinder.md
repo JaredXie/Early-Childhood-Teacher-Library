@@ -63,7 +63,7 @@ Questions:
 
 
 
-** 4. Weather, Seasonal, week, date, continent Discussion **
+**4. Weather, Seasonal, week, date, continent Discussion**
 
 Discuss:
 
@@ -76,21 +76,21 @@ Discuss:
 
 
 
-6. Daily Plan Introduction
+**6. Daily Plan (topic teaching) Introduction**
 
 Educator introduces:
 
 - Today's experiences
-- Special events
+- Special events (if applicable, see the education calendar of your state)
 - Children's responsibilities
 
-Example:
+*Example:*
 
 "Today we are going to investigate shadows outside."
 
 
 
-7. Transition Song
+**7. Transition Song**
 
 Children move to morning tea.
 
