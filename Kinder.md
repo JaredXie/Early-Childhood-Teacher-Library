@@ -12,9 +12,7 @@
 - Support children's emotional wellbeing
 - Introduce the day's learning experiences
 
-*Suggested Duration*
-
-15–20 minutes
+*Suggested Duration* 15–20 minutes
 
 #### Routine
 <details>
