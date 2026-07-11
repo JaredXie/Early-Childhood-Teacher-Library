@@ -22,7 +22,7 @@ Group time: approximately 10–15 minutes, extended to 20 minutes depending on c
 Ending
 - [See you later alligator (30s)](https://www.youtube.com/shorts/dFv8YManxZk)
 
-Lyrics:
+> Lyrics:
 
 See you later alligator
 
