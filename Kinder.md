@@ -117,6 +117,10 @@ After morning tea, children either have free play or learning activities (assign
 
 15–25 minutes
 
+#### Routine
+<details>
+<summary>Lick to see Routine</summary><details>
+
 **1. Pack up and Gathering Song**
 
 Signal children to transition into group time.
@@ -185,6 +189,10 @@ Possible areas:
 
 - Teacher ask names and send children to Wash hands 1 by 1.
 - Another Educator Prepare for lunch. 
+
+</details>
+
+When lunch is finishing, educator puts on some calm music indicating the rest time.
 
 ---
 
