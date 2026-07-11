@@ -2,10 +2,17 @@
 
 ## Group Time (12-20min)
 
----
-Group time: approximately 10–15 minutes, extended to 20 minutes depending on children’s engagement
+| Time of Day | Suggested Length | Main Purpose | Best Activities |
+|---|---:|---|---|
+| Morning group time | 10–15 min | Settle, connect and introduce the day | Welcome song, regulation, Acknowledgement of Country, movement song, short topic introduction |
+| Midday group time | 5–10 min | Calm down and prepare for lunch/rest | Quiet song, breathing, short story, handwashing transition |
+| Afternoon group time | 5–10 min | Reconnect and review the day | Gentle movement, reflection, favourite song, goodbye/transition song |
 
----
+### Morning group time
+
+> approximately 10–15 minutes, extended to 20 minutes depending on children’s engagement
+
+
 
 | Routine | Time | Activity | Purpose |
 |---|---:|---|---|
@@ -18,14 +25,12 @@ Group time: approximately 10–15 minutes, extended to 20 minutes depending on c
 
 "*" Those stars ones should be normally fixed for a well-structured routine
 
----
 Ending
 - [See you later alligator (30s)](https://www.youtube.com/shorts/dFv8YManxZk)
 
 > Lyrics: See you later alligator, In a while crocodile, Give a hug ladybug, Blow a kiss jellyfish, See you soon big baboon, Out the door dinosaur, Take care polar bear, Wave goodbye butterfly. Group time is finished. Now we are going to play/do our activity
 
----
-## Toddler Midday Group Time Routine
+### Toddler Midday Group Time Routine
 
 Midday group time: approximately 5–10 minutes, depending on children’s energy level, hunger and emotional readiness.
 
@@ -41,7 +46,7 @@ This group time should be calm, short and predictable. The main purpose is to he
 
 ⭐ Starred routines should usually stay fixed to support a predictable and well-structured routine.
 
-## Toddler Afternoon Group Time Routine
+### Toddler Afternoon Group Time Routine
 
 Afternoon group time: approximately 5–10 minutes, extended to 10–15 minutes only if children are highly engaged.
 
