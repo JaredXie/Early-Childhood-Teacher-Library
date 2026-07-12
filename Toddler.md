@@ -39,7 +39,7 @@ This group time should be calm, short and predictable. The main purpose is to he
 | Routine | Time | Activity | Purpose |
 |---|---:|---|---|
 | Gather and settle children ⭐ | 1–2 min | - Invite children to sit on the mat<br>- Sing a short settling song<br>- Example: “Open Shut Them” slow version, or the same as morning | Help children calm their bodies and understand that play time is finishing |
-| Short calming song or breathing （can jump when children are tired and settled) | 1–2 min | - Smell the flower, blow the candle<br>- Gentle hand actions<br>- Slow clapping or quiet body movements | Support emotional regulation before lunch or rest |
+| Short calming song or breathing （can skip when children are tired and settled) | 1–2 min | - Smell the flower, blow the candle<br>- Gentle hand actions<br>- Slow clapping or quiet body movements | Support emotional regulation before lunch or rest |
 | Short story / quiet book related to topic| 3–5 min | - Read a short picture book<br>- Use a puppet or soft toy<br>- Ask 1–2 simple questions only | Encourage listening, language development and calm attention |
 | Lunch / rest time reminder ⭐ | 1–2 min | - Briefly explain what happens next<br>- Example: “Now we will wash our hands, then have lunch.”<br>- Remind children about simple expectations | Prepare children for the next routine and reduce transition stress |
 | Transition song ⭐ | 1 min | - Sing a short transition song<br>- Example: “Wash, Wash, Wash Your Hands”<br>- Children move to handwashing or lunch | Signal the end of group time and support a smooth transition |
