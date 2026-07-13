@@ -112,7 +112,7 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 *Activities and setups*
 - Counting
   - Teacher draws dots on hard papers, the challenge for children is to put the same number of clips or bonbons on the board.
-  - ...
+  - Similarly, teacher draw dots and write numbers on the papers divided into grids. Teacher write the same numbers on the post-it notes. Toddlers sort them out. ([see youtube](https://www.youtube.com/shorts/FkwNg_JYLbY))
 
 ## Audio library
 
