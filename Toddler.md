@@ -19,7 +19,7 @@
 | Settle children *| 2–3 min |Instruction songs <br>- “Let’s Make a Circle, circle, circle”<br>- [Sit on the mat and clap](https://www.youtube.com/watch?v=h6xQqjd649s&list=RDh6xQqjd649s&start_radio=1) | Help children join the group and understand group time is starting |
 | Emotional regulation *| 2–3 min | - Smell the flower, blow the flower<br>- [Banana unite song](https://www.youtube.com/shorts/lWQ82Bcjrx0) | Support breathing, body awareness and emotional readiness |
 | Acknowledgement of Country *| 2–3 min | - Short oral acknowledgement (land,sky,friends,I)<br>- [Inanay song](https://www.youtube.com/watch?v=_yxW57WzrTY&list=RD_yxW57WzrTY&start_radio=1) | Build respectful daily routine |
-| Familiar movement song/or revise last topic | 3–4 min | - Sleeping Bunnies<br>- Slippery Fish<br>- Baby Shark<br><br>Choose 1–2 songs only | Keep toddlers engaged through movement and rhythm |
+| Familiar movement song/or revise last topic | 3–4 min | - Sleeping Bunnies<br>- Slippery Fish<br>- Baby Shark<br><br>Choose 1–2 songs only <br>-or instead, can revise last topic| Keep toddlers engaged through movement and rhythm/review and link to important prior concepts |
 | New topic introduction and intentional teaching | 3–5 min | - Use real objects, pictures, tools (resources related to activities, puppets)<br>- Ask simple questions | Introduce the learning focus in a concrete way |
 | Closing / transition *| 1 min | - [See you later alligator](https://www.youtube.com/shorts/dFv8YManxZk) song, or<br>- encourage children to do the taught activity, or <br>- ask names for washing hands before meals | Signal the end and support a calm transition |
 
@@ -99,9 +99,24 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 
 ### *Literacy*
 *Group time teaching ideas*
-- Use 
+- Counting
+  - Sing '5 little monkeys jumping on the bed'. Use 5 little monkey puppets to visualise the drama and count with the children while seeing the monkeys become less and less.
+  - Read sensory number books
+  - [Sing a counting fingers song](https://www.youtube.com/shorts/0XvzrTMAPC8). This is a toddler room, so remember to do it slowly, do not need to count to 10, 5 is good enough.
+  - [Bunny counting song for toddler and preschool (this is also finger play)](https://www.youtube.com/shorts/H1AzPRxmUI8). 
+- Shape
+  - ...
+- Size
+  -... 
+
+*Activities and setups*
+- Counting
+  - Teacher draws dots on hard papers, the challenge for children is to put the same number of clips or bonbons on the board.
+  - ...
 
 ## Audio library
+
+For toddler educational purpose songs, I found one nice Youtuber [The Alana Banana Show - Educational Music Videos](https://www.youtube.com/@thealanabananashow/shorts)
 
 ### *Indoor movement and emotional regulation*
 Songs
