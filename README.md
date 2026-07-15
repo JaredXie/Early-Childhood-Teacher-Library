@@ -8,6 +8,20 @@ Since babies (0-1) mostly develop on sensory, caring and simple reactions to the
 
 Our library only collect those for [toddlers](./Toddler.md) (1-2year old) and [kinders](./Kinder.md) (3-5). 
 
+
 ## Description of the files in the repository
 
-I intend to make this repository into a useful webpage that has a better visual effect. **index.md** is the home page of my GitHub page website. **mkdocs.yml** is the configuration file that automatically sets up the webpage based on the existing Jekyll theme styles. The original documents of the repository are **Kinder.md** and **Toddler.md**, which contain the main text of my library (repository). 
+I intend to make this repository into a useful webpage that has a better nevigation, well... not at the state of a good look. 
+
+### The 'root' folder
+
+**mkdocs.yml** is the configuration file that automatically sets up the webpage based on the existing Mkdocs Material theme. The 'nev' panel of the code controls the webpage nevigation and its content is linked to 'docs' folder.
+
+The original documents of the repository are **Kinder.md** and **Toddler.md**, which contain the main text of my library (repository). 
+
+### The 'docs' folder
+The 'docs' folder sets up our webpage navigation, which includes **Kinder/index.md** and **Toddler/index.md** and will be continuously updated. 
+
+
+
+
