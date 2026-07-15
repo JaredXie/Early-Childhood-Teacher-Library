@@ -1,1 +1,73 @@
+site_name: Early Childhood Teaching Repository
+site_description: Teaching routines, learning experiences and professional resources
+site_author: Jared Xie
 
+theme:
+  name: material
+  language: en
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+
+  - Kinder:
+      - Overview: group-time/index.md
+      - Toddler Morning: group-time/toddler-morning.md
+      - Toddler Midday: group-time/toddler-midday.md
+      - Toddler Afternoon: group-time/toddler-afternoon.md
+
+  - Toddler:
+      - Overview: learning-experiences/index.md
+
+  - Professional Practice:
+      - Overview: professional-practice/index.md
+
+  - Resources:
+      - Overview: resources/index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
