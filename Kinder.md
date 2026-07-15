@@ -16,7 +16,7 @@
 
 #### Routine
 <details markdown="1">
-<summary>Lick to see Routine</summary>
+<summary>Click to see Routine</summary>
  
 **1. Welcome Song**
 
@@ -117,7 +117,7 @@ After morning tea, children either have free play or learning activities (assign
 #### Routine
 
 <details markdown="1">
-<summary>Lick to see Routine</summary>
+<summary>Click to see Routine</summary>
 
 
 **1. Pack up and Gathering Song**
@@ -255,7 +255,7 @@ When lunch is finishing, educator puts on some calm music indicating the rest ti
 - Intentional teaching
 
 <details markdown="1">
-<summary>Lick to see Routine</summary>
+<summary>Click to see Routine</summary>
  
 #### 1. Pack Away
 
@@ -401,7 +401,7 @@ Then students go for afternoon tea, after that, free play until the family come 
 
 #### Routine
 <details markdown="1">
-<summary>Lick to expand the routine</summary>
+<summary>Click to expand the routine</summary>
  
 **1. Welcome Back Song**
 
