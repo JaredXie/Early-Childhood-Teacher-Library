@@ -1,2 +1,2 @@
 # Description 
-This folder includes documents, pictures and resources that have been uploaded and linked
+This folder sets up the mkdocs website content.
