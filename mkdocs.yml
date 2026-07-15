@@ -1,6 +1,9 @@
 site_name: Early Childhood Teaching Repository
 site_description: Teaching routines, learning experiences and professional resources
 site_author: Jared Xie
+copyright: © 2026 Created and maintained by JaredXie
+repo_url: https://github.com/JaredXie/Early-Childhood-Teacher-Library
+repo_name: JaredXie/Early-Childhood-Teacher-Library
 
 theme:
   name: material
