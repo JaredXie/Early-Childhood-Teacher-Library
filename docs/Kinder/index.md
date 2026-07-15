@@ -15,87 +15,86 @@
 *Suggested Duration* 15–20 minutes
 
 #### Routine
-<details markdown="1">
-<summary>Click to see Routine</summary>
+??? note "Click to see Routine"
  
-**1. Welcome Song**
+    **1. Welcome Song**
 
-- Children gather together and transition from play to group learning. 
-- Children sit in the circle/ around the mat
-- Check in with 'Hello how are you song' by greeting the names of children and the teachers
+    - Children gather together and transition from play to group learning. 
+    - Children sit in the circle/ around the mat
+    - Check in with 'Hello how are you song' by greeting the names of children and the teachers
+    
+    
+    *Examples:*
+
+    - Hello how are you, hello how are you, hello how are you how are you today? It's nice to see (Name) here... ()
+    - ...
+    
+    
+    
+    **2. Acknowledgement of Country**
+    
+    A respectful way to recognise Aboriginal and Torres Strait Islander peoples and connection to Country.
+    
+    *Examples:*
+    
+    - Daily Acknowledgement of Country (Essential)
+    - singing inanay and tabanaba
+    - Children's participation
+    - Using visual resources
+    - ...
+    
+    
+    **3. Feelings Check-in**
+    
+    Children share how they feel.
+    
+    Resources:
+    
+    - Emotion cards
+    - Feelings chart
+    - Puppet conversations
+    
+    Questions:
+    
+    - How are you feeling today?
+    - What makes you feel happy?
+    - What can we do if we feel upset?
+    
+    
+    
+    **4. Weather, Seasonal, week, date, continent Discussion**
+    
+    Discuss:
+    
+    - Weather today (singing 'What's the weather song', then ask children to answer)
+    - Season changes (singing 'season song', include nature observations, then ask children to answer)
+    - Clothing choices (after discussing the season and weather)
+    - Singing '7 days in a week song'
+    - Singing 'continent song'
+    - ...
+    
+    
+    
+    **6. Daily Plan (topic teaching) Introduction**
+    
+    Educator introduces (but do not do all the activvities at once):
+    
+    - Today's experiences
+    - Special events (if applicable, see the education calendar of your state)
+    - Teachers' expectations and Children's responsibilities
+    
+    *Example:*
+    
+    "Today we are going to investigate shadows outside."
+    
+    
+    
+    **7. Transition Song**
+    
+    Such as bee bee bumble bee. Children move to morning tea. 
 
 
-*Examples:*
 
-- Hello how are you, hello how are you, hello how are you how are you today? It's nice to see (Name) here... ()
-- ...
-
-
-
-**2. Acknowledgement of Country**
-
-A respectful way to recognise Aboriginal and Torres Strait Islander peoples and connection to Country.
-
-*Examples:*
-
-- Daily Acknowledgement of Country (Essential)
-- singing inanay and tabanaba
-- Children's participation
-- Using visual resources
-- ...
-
-
-**3. Feelings Check-in**
-
-Children share how they feel.
-
-Resources:
-
-- Emotion cards
-- Feelings chart
-- Puppet conversations
-
-Questions:
-
-- How are you feeling today?
-- What makes you feel happy?
-- What can we do if we feel upset?
-
-
-
-**4. Weather, Seasonal, week, date, continent Discussion**
-
-Discuss:
-
-- Weather today (singing 'What's the weather song', then ask children to answer)
-- Season changes (singing 'season song', include nature observations, then ask children to answer)
-- Clothing choices (after discussing the season and weather)
-- Singing '7 days in a week song'
-- Singing 'continent song'
-- ...
-
-
-
-**6. Daily Plan (topic teaching) Introduction**
-
-Educator introduces (but do not do all the activvities at once):
-
-- Today's experiences
-- Special events (if applicable, see the education calendar of your state)
-- Teachers' expectations and Children's responsibilities
-
-*Example:*
-
-"Today we are going to investigate shadows outside."
-
-
-
-**7. Transition Song**
-
-Such as bee bee bumble bee. Children move to morning tea. 
-
-
-</details>
 
 After morning tea, children either have free play or learning activities (assigned by teacher in small or big groups).
 
@@ -116,80 +115,78 @@ After morning tea, children either have free play or learning activities (assign
 
 #### Routine
 
-<details markdown="1">
-<summary>Click to see Routine</summary>
+??? note "Click to see Routine"
+
+    **1. Pack up and Gathering Song**
+    
+    Signal children to transition into group time.
+    - Pack away song
+    - Let's make a circle song
+    - Sit on the mat and clap
+    
+    
+    **2. Review Morning Experiences**
+    
+    Discussion:
+    
+    - What did you play today?
+    - What did you discover?
+    - What questions do you have?
+    
+    
+    
+    **3. Intentional Teaching Experience**
+    
+    Possible areas:
+    
+    *Literacy*
+    
+    - Story reading
+    - Phonics awareness
+    - Vocabulary development
+    
+    *Numeracy*
+    
+    - Counting
+    - Patterns
+    - Measurement
+    
+    *STEM*
+    
+    - Experiments
+    - Predictions
+    - Observations
+    
+    *Sustainability*
+    
+    - Nature
+    - Recycling
+    - Gardening
+    
+    *First Nations Perspectives*
+    
+    - Stories
+    - Culture
+    - Connection to Country
+    
+    
+    
+    **4. Open-ended Questions**
+    
+    *Examples:*
+    
+    - What do you think will happen?
+    - Why do you think that?
+    - How could we solve this problem?
+    - What else could we try?
+    
+    
+    **5. Transition to Lunch**
+    
+    - Teacher ask names and send children to Wash hands 1 by 1.
+    - Another Educator Prepare for lunch. 
 
 
-**1. Pack up and Gathering Song**
-
-Signal children to transition into group time.
-- Pack away song
-- Let's make a circle song
-- Sit on the mat and clap
-
-
-**2. Review Morning Experiences**
-
-Discussion:
-
-- What did you play today?
-- What did you discover?
-- What questions do you have?
-
-
-
-**3. Intentional Teaching Experience**
-
-Possible areas:
-
-*Literacy*
-
-- Story reading
-- Phonics awareness
-- Vocabulary development
-
-*Numeracy*
-
-- Counting
-- Patterns
-- Measurement
-
-*STEM*
-
-- Experiments
-- Predictions
-- Observations
-
-*Sustainability*
-
-- Nature
-- Recycling
-- Gardening
-
-*First Nations Perspectives*
-
-- Stories
-- Culture
-- Connection to Country
-
-
-
-**4. Open-ended Questions**
-
-*Examples:*
-
-- What do you think will happen?
-- Why do you think that?
-- How could we solve this problem?
-- What else could we try?
-
-
-**5. Transition to Lunch**
-
-- Teacher ask names and send children to Wash hands 1 by 1.
-- Another Educator Prepare for lunch. 
-
-</details>
 
 When lunch is finishing, educator puts on some calm music indicating the rest time.
 
@@ -254,115 +251,114 @@ When lunch is finishing, educator puts on some calm music indicating the rest ti
 - Encouraging children's agency
 - Intentional teaching
 
-<details markdown="1">
-<summary>Click to see Routine</summary>
+??? note "Click to see Routine"
  
-#### 1. Pack Away
+    #### 1. Pack Away
+    
+    Children work together to tidy the learning environment before gathering for group time.
+    
+    **Learning Focus**
+    
+    - Responsibility
+    - Independence
+    - Teamwork
+    - Respect for the learning environment
+    
+    **Possible Strategies**
+    
+    - Pack Away Song
+    - Visual pack away cues
+    - Small group responsibilities
+    - Positive reinforcement
+    
+    
+    #### 2. Gathering Song
+    
+    Invite children to sit together and transition into group time.
+    
+    **Examples**
+    
+    - Come and Sit Together
+    - Hello Again Song
+    - Circle Time Song
+    
+    
+    
+    #### 3. Reflection Circle
+    
+    Invite children to share their experiences from the day. (photos can be shared)
+    
+    **Reflection Prompts**
+    
+    - What was your favourite part of today?
+    - What did you learn or discover?
+    - What made you feel proud today?
+    - What challenged you today?
+    - What would you like to explore again tomorrow?
+    
+    
+    
+    #### 4. Celebrate Learning
+    
+    Highlight children's learning, achievements and positive behaviours. (photos can be shared)
+    
+    **Examples**
+    
+    - Artwork
+    - Block constructions
+    - Scientific discoveries
+    - Creative ideas
+    - Kindness moments
+    - Teamwork
+    - Problem-solving
+    
+    > **Focus on effort, persistence and learning rather than outcomes.**
+    
+    **Example**
+    
+    > "Today I noticed Mia kept trying different ways to balance the blocks. She didn't give up."
+    
+    
+    #### 5. Gratitude & Kindness
+    
+    Encourage children to recognise positive social interactions. (teacher can share photos)
+    
+    **Discussion Prompts**
+    
+    - Who helped you today?
+    - How did you help someone today?
+    - What kind thing did you do today?
+    - What made someone smile today?
+    - What are you thankful for today?
+    
+    #### 6. Mindful Moment
+    
+    Finish the group time with a calming activity before afternoon tea.
+    
+    **Possible Activities**
+    
+    - Belly breathing
+    - Stretching
+    - Mindful listening
+    - Calm music
+    - Guided relaxation
+    - Quiet visualisation
+    - animal bingo
+    - other learning activities...
+    
+    #### 7. Transition to Afternoon Tea
+    
+    Prepare children for the next part of the daily routine.
+    
+    **Transition Routine**
+    
+    - Wash hands
+    - Collect drink bottles
+    - Line up calmly
+    - Sing a transition song
+    - Move to the dining area
 
-Children work together to tidy the learning environment before gathering for group time.
 
-**Learning Focus**
-
-- Responsibility
-- Independence
-- Teamwork
-- Respect for the learning environment
-
-**Possible Strategies**
-
-- Pack Away Song
-- Visual pack away cues
-- Small group responsibilities
-- Positive reinforcement
-
-
-#### 2. Gathering Song
-
-Invite children to sit together and transition into group time.
-
-**Examples**
-
-- Come and Sit Together
-- Hello Again Song
-- Circle Time Song
-
-
-
-#### 3. Reflection Circle
-
-Invite children to share their experiences from the day. (photos can be shared)
-
-**Reflection Prompts**
-
-- What was your favourite part of today?
-- What did you learn or discover?
-- What made you feel proud today?
-- What challenged you today?
-- What would you like to explore again tomorrow?
-
-
-
-#### 4. Celebrate Learning
-
-Highlight children's learning, achievements and positive behaviours. (photos can be shared)
-
-**Examples**
-
-- Artwork
-- Block constructions
-- Scientific discoveries
-- Creative ideas
-- Kindness moments
-- Teamwork
-- Problem-solving
-
-> **Focus on effort, persistence and learning rather than outcomes.**
-
-**Example**
-
-> "Today I noticed Mia kept trying different ways to balance the blocks. She didn't give up."
-
-
-#### 5. Gratitude & Kindness
-
-Encourage children to recognise positive social interactions. (teacher can share photos)
-
-**Discussion Prompts**
-
-- Who helped you today?
-- How did you help someone today?
-- What kind thing did you do today?
-- What made someone smile today?
-- What are you thankful for today?
-
-#### 6. Mindful Moment
-
-Finish the group time with a calming activity before afternoon tea.
-
-**Possible Activities**
-
-- Belly breathing
-- Stretching
-- Mindful listening
-- Calm music
-- Guided relaxation
-- Quiet visualisation
-- animal bingo
-- other learning activities...
-
-#### 7. Transition to Afternoon Tea
-
-Prepare children for the next part of the daily routine.
-
-**Transition Routine**
-
-- Wash hands
-- Collect drink bottles
-- Line up calmly
-- Sing a transition song
-- Move to the dining area
-
-</details>
 
 Then students go for afternoon tea, after that, free play until the family come to pick up. When 4pm, families may come to pick up crowdedly, so can let all children go outdoor. 
 
@@ -400,43 +396,41 @@ Then students go for afternoon tea, after that, free play until the family come 
 ### 🌇 Late Afternoon Group Time (Optional before home, usually when it is rainy and some children are picked up so late)
 
 #### Routine
-<details markdown="1">
-<summary>Click to expand the routine</summary>
+??? note "Click to see Routine"
  
-**1. Welcome Back Song**
+    **1. Welcome Back Song**
+    
+    Children transition from afternoon play.
+    
+    
+    **2. Sharing Children's Learning** 
+    
+    Educator can share:
+    
+    - Photos
+    - Learning stories
+    - Children's creations
+    - Observations
+    
+    
+    Discussion:
+    
+    - Kindness
+    - Friendship
+    - Problem solving
+    - Tomorrow's ideas
+    
+    
+    
+    **3. Story / Music / Goodbye Activity**
+    
+    Examples:
+    
+    - Favourite story
+    - Songs
+    - Puppet show
+    - Goodbye song
 
-Children transition from afternoon play.
-
-
-**2. Sharing Children's Learning** 
-
-Educator can share:
-
-- Photos
-- Learning stories
-- Children's creations
-- Observations
-
-
-Discussion:
-
-- Kindness
-- Friendship
-- Problem solving
-- Tomorrow's ideas
-
-
-
-**3. Story / Music / Goodbye Activity**
-
-Examples:
-
-- Favourite story
-- Songs
-- Puppet show
-- Goodbye song
-
-</details>
 
 ---
 
@@ -458,241 +452,240 @@ For details, please refer to
 
 > Here, as summarised, is A practical annual planning guide for Early Childhood Teachers (ECTs) in Victoria, Australia.
 
-<details markdown="1">
-<summary>Click to expand the calendar</summary>
+??? note "Click to see Routine"
+
+    
+    
+    ### 🌞 January
+    
+    #### Possible Themes
+    
+    - Welcome to Kinder
+    - Building Relationships
+    - Classroom Expectations
+    - Summer
+    - Water Safety
+    
+    #### Learning Focus
+    
+    - Establish routines
+    - Sense of Belonging (EYLF Outcome 1)
+    - Making friends
+    - SunSmart practices
+    
+    #### Activity Ideas
+    
+    - Name games
+    - Self-portraits
+    - Water play
+    - Ice experiments
+    
+    ---
+    
+    ### ❤️ February
+    
+    #### Possible Themes
+    
+    - Lunar New Year *(if applicable)*
+    - Valentine's Day *(Kindness & Friendship)*
+    - Emotions
+    - Friendship
+    
+    #### Activity Ideas
+    
+    - Chinese cultural experiences
+    - Family traditions
+    - Emotion cards
+    - Friendship tree
+    
+    ---
+    
+    ### 🌈 March
+    
+    #### Key Events
+    
+    - Harmony Week ⭐⭐⭐⭐⭐
+    - Clean Up Australia Day
+    - Autumn
+    
+    #### Learning Focus
+    
+    > **Everyone Belongs**
+    
+    #### Activity Ideas
+    
+    - Different languages
+    - Cultural food tasting
+    - Family photos
+    - Leaf investigation
+    
+    ---
+    
+    ### 🐰 April
+    
+    #### Possible Themes
+    
+    - Easter
+    - ANZAC Day
+    - Earth Day
+    - Autumn
+    
+    #### Activity Ideas
+    
+    - Nature collage
+    - Gardening
+    - Recycled art
+    - Planting seeds
+    
+    ---
+    
+    ### 📚 May
+    
+    #### Key Events
+    
+    - National Simultaneous Storytime
+    - National Reconciliation Week
+    - Mother's Day
+    
+    #### Activity Ideas
+    
+    - Storytelling
+    - Indigenous stories
+    - Family appreciation
+    - Book making
+    
+    ---
+    
+    ### 🌿 June
+    
+    #### Possible Themes
+    
+    - Winter
+    - Sustainability
+    - World Environment Day
+    
+    #### Activity Ideas
+    
+    - Recycling
+    - Weather observation
+    - Loose Parts Play
+    - Bird feeders
+    
+    ---
+    
+    ### 🖤💛❤️ July
+    
+    ⭐ NAIDOC Week
+    
+    One of the most important events in Australian Early Childhood Education.
+    
+    ##### Learning Focus
+    
+    - Aboriginal cultures
+    - Torres Strait Islander cultures
+    - Storytelling
+    - Indigenous symbols
+    - Native animals
+    - Caring for Country
+    
+    > **Note:** Indigenous perspectives should be embedded respectfully throughout the year, not only during NAIDOC Week.
+
+    ---
+    
+    ### 🔬 August
+    
+    One of the busiest months for ECTs.
+    
+    ⭐ National Science Week
+    
+    #### STEM Ideas
+    
+    - Volcanoes
+    - Magnets
+    - Water experiments
+    - Shadows
+    - Sink & Float
+    - Plants
+    - Weather
+    - Insects
+    
+    ---
+    
+    ⭐ Book Week
+    
+    #### Activity Ideas
+    
+    - Dress Up Day
+    - Favourite books
+    - Storytelling
+    - Author studies
+    - Book making
+    
+    ---
+    
+    ### 🌸 September
+    
+    #### Possible Themes
+    
+    - Father's Day
+    - R U OK? Day
+    - Spring
+    
+    #### Activity Ideas
+    
+    - Growing flowers
+    - Butterflies
+    - Bees
+    - Kindness
+    - Gardening
+    
+    ---
+    
+    ### 🍃 October
+    
+    Children's Week
+    
+    #### Learning Focus
+    
+    - Children's Voice
+    
+    - Children actively participate in planning, decision-making and learning experiences.
+    
+    ---
+    
+    ### 🌏 November
+    
+    #### Possible Themes
+    
+    - Remembrance Day
+    - Community Helpers
+    - Transition to School
+    
+    #### Activity Ideas
+    
+    - Visit Prep classroom
+    - Independence skills
+    - Packing school bags
+    - School readiness games
+    
+    ---
+    
+    ### 🎄 December
+    
+    #### Possible Themes
+    
+    - Christmas
+    - Reflection
+    - Summer
+    
+    #### Activity Ideas
+    
+    - Family celebrations
+    - Looking back on the year
+    - Portfolio sharing
+    - Celebration day
 
----
 
-### 🌞 January
-
-#### Possible Themes
-
-- Welcome to Kinder
-- Building Relationships
-- Classroom Expectations
-- Summer
-- Water Safety
-
-#### Learning Focus
-
-- Establish routines
-- Sense of Belonging (EYLF Outcome 1)
-- Making friends
-- SunSmart practices
-
-#### Activity Ideas
-
-- Name games
-- Self-portraits
-- Water play
-- Ice experiments
-
----
-
-### ❤️ February
-
-#### Possible Themes
-
-- Lunar New Year *(if applicable)*
-- Valentine's Day *(Kindness & Friendship)*
-- Emotions
-- Friendship
-
-#### Activity Ideas
-
-- Chinese cultural experiences
-- Family traditions
-- Emotion cards
-- Friendship tree
-
----
-
-### 🌈 March
-
-#### Key Events
-
-- Harmony Week ⭐⭐⭐⭐⭐
-- Clean Up Australia Day
-- Autumn
-
-#### Learning Focus
-
-> **Everyone Belongs**
-
-#### Activity Ideas
-
-- Different languages
-- Cultural food tasting
-- Family photos
-- Leaf investigation
-
----
-
-### 🐰 April
-
-#### Possible Themes
-
-- Easter
-- ANZAC Day
-- Earth Day
-- Autumn
-
-#### Activity Ideas
-
-- Nature collage
-- Gardening
-- Recycled art
-- Planting seeds
-
----
-
-### 📚 May
-
-#### Key Events
-
-- National Simultaneous Storytime
-- National Reconciliation Week
-- Mother's Day
-
-#### Activity Ideas
-
-- Storytelling
-- Indigenous stories
-- Family appreciation
-- Book making
-
----
-
-### 🌿 June
-
-#### Possible Themes
-
-- Winter
-- Sustainability
-- World Environment Day
-
-#### Activity Ideas
-
-- Recycling
-- Weather observation
-- Loose Parts Play
-- Bird feeders
-
----
-
-### 🖤💛❤️ July
-
-⭐ NAIDOC Week
-
-One of the most important events in Australian Early Childhood Education.
-
-##### Learning Focus
-
-- Aboriginal cultures
-- Torres Strait Islander cultures
-- Storytelling
-- Indigenous symbols
-- Native animals
-- Caring for Country
-
-> **Note:** Indigenous perspectives should be embedded respectfully throughout the year, not only during NAIDOC Week.
-
----
-
-### 🔬 August
-
-One of the busiest months for ECTs.
-
-⭐ National Science Week
-
-#### STEM Ideas
-
-- Volcanoes
-- Magnets
-- Water experiments
-- Shadows
-- Sink & Float
-- Plants
-- Weather
-- Insects
-
----
-
-⭐ Book Week
-
-#### Activity Ideas
-
-- Dress Up Day
-- Favourite books
-- Storytelling
-- Author studies
-- Book making
-
----
-
-### 🌸 September
-
-#### Possible Themes
-
-- Father's Day
-- R U OK? Day
-- Spring
-
-#### Activity Ideas
-
-- Growing flowers
-- Butterflies
-- Bees
-- Kindness
-- Gardening
-
----
-
-### 🍃 October
-
-Children's Week
-
-#### Learning Focus
-
-- Children's Voice
-
-- Children actively participate in planning, decision-making and learning experiences.
-
----
-
-### 🌏 November
-
-#### Possible Themes
-
-- Remembrance Day
-- Community Helpers
-- Transition to School
-
-#### Activity Ideas
-
-- Visit Prep classroom
-- Independence skills
-- Packing school bags
-- School readiness games
-
----
-
-### 🎄 December
-
-#### Possible Themes
-
-- Christmas
-- Reflection
-- Summer
-
-#### Activity Ideas
-
-- Family celebrations
-- Looking back on the year
-- Portfolio sharing
-- Celebration day
-
-</details>
 
 ---
 
