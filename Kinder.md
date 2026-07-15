@@ -15,7 +15,7 @@
 *Suggested Duration* 15–20 minutes
 
 #### Routine
-<details>
+<details markdown="1">
 <summary>Lick to see Routine</summary>
  
 **1. Welcome Song**
@@ -116,7 +116,7 @@ After morning tea, children either have free play or learning activities (assign
 
 #### Routine
 
-<details>
+<details markdown="1">
 <summary>Lick to see Routine</summary>
 
 
@@ -254,7 +254,7 @@ When lunch is finishing, educator puts on some calm music indicating the rest ti
 - Encouraging children's agency
 - Intentional teaching
 
-<details>
+<details markdown="1">
 <summary>Lick to see Routine</summary>
  
 #### 1. Pack Away
@@ -400,7 +400,7 @@ Then students go for afternoon tea, after that, free play until the family come 
 ### 🌇 Late Afternoon Group Time (Optional before home, usually when it is rainy and some children are picked up so late)
 
 #### Routine
-<details>
+<details markdown="1">
 <summary>Lick to expand the routine</summary>
  
 **1. Welcome Back Song**
