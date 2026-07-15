@@ -458,8 +458,8 @@ For details, please refer to
 
 > Here, as summarised, is A practical annual planning guide for Early Childhood Teachers (ECTs) in Victoria, Australia.
 
-<details>
-<summary>Lick to expand the calendar</summary>
+<details markdown="1">
+<summary>Click to expand the calendar</summary>
 
 ---
 
