@@ -38,20 +38,16 @@ theme:
 nav:
   - Home: index.md
 
-  - Kinder:
-      - Overview: group-time/index.md
-      - Toddler Morning: group-time/toddler-morning.md
-      - Toddler Midday: group-time/toddler-midday.md
-      - Toddler Afternoon: group-time/toddler-afternoon.md
+  - Kinder: Kinder/index.md
+      - Overview: group-time/index.md (not activated)
+      - Toddler Morning: group-time/toddler-morning.md (not activated)
+      - Toddler Midday: group-time/toddler-midday.md (not activated)
+      - Toddler Afternoon: group-time/toddler-afternoon.md (not activated)
 
-  - Toddler:
-      - Overview: learning-experiences/index.md
+  - Toddler: Toddler/index.md
+      - Overview: learning-experiences/index.md (not activated)
 
-  - Professional Practice:
-      - Overview: professional-practice/index.md
 
-  - Resources:
-      - Overview: resources/index.md
 
 plugins:
   - search
