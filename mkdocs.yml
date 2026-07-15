@@ -39,13 +39,9 @@ nav:
   - Home: index.md
 
   - Kinder: Kinder/index.md
-      - Overview: group-time/index.md
-      - Toddler Morning: group-time/toddler-morning.md
-      - Toddler Midday: group-time/toddler-midday.md
-      - Toddler Afternoon: group-time/toddler-afternoon.md
 
   - Toddler: Toddler/index.md
-      - Overview: learning-experiences/index.md
+ 
 
 
 
