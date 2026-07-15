@@ -15,8 +15,8 @@
 *Suggested Duration* 15–20 minutes
 
 #### Routine
-<details>
-<summary>Lick to see Routine</summary>
+<details markdown="1">
+<summary>Click to see Routine</summary>
  
 **1. Welcome Song**
 
@@ -116,8 +116,8 @@ After morning tea, children either have free play or learning activities (assign
 
 #### Routine
 
-<details>
-<summary>Lick to see Routine</summary>
+<details markdown="1">
+<summary>Click to see Routine</summary>
 
 
 **1. Pack up and Gathering Song**
@@ -254,8 +254,8 @@ When lunch is finishing, educator puts on some calm music indicating the rest ti
 - Encouraging children's agency
 - Intentional teaching
 
-<details>
-<summary>Lick to see Routine</summary>
+<details markdown="1">
+<summary>Click to see Routine</summary>
  
 #### 1. Pack Away
 
@@ -400,8 +400,8 @@ Then students go for afternoon tea, after that, free play until the family come 
 ### 🌇 Late Afternoon Group Time (Optional before home, usually when it is rainy and some children are picked up so late)
 
 #### Routine
-<details>
-<summary>Lick to expand the routine</summary>
+<details markdown="1">
+<summary>Click to expand the routine</summary>
  
 **1. Welcome Back Song**
 
@@ -458,8 +458,8 @@ For details, please refer to
 
 > Here, as summarised, is A practical annual planning guide for Early Childhood Teachers (ECTs) in Victoria, Australia.
 
-<details>
-<summary>Lick to expand the calendar</summary>
+<details markdown="1">
+<summary>Click to expand the calendar</summary>
 
 ---
 
