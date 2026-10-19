@@ -1,4 +1,4 @@
-site_name: Early Childhood Teaching Repository
+site_name: Jared's Early Childhood Teaching Repository
 site_description: Teaching routines, learning experiences and professional resources
 site_author: Jared Xie
 copyright: © 2026 Created and maintained by JaredXie
@@ -44,6 +44,8 @@ nav:
   - Kinder: Kinder/index.md
 
   - Toddler: Toddler/index.md
+
+  - Reflection and Notes: Reflection-and-Notes/index.md
  
 
 
