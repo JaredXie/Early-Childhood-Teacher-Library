@@ -128,6 +128,6 @@ Listen to Stories
 
 
 ## Activity library
-- [Sensory-colourwater](./docs/Toddler/Sensory-color-water.mp4)
+- [Sensory-colourwater](./docs/Sensory-color-water.mp4)
 - [Sensory-Finger Painting (Warning, this is a messy play)](https://www.youtube.com/watch?v=mbigTSiSY4A)
 - [Literacy-Counting, Sorting, Shaping Loose Part in the Nature](https://www.youtube.com/watch?v=NrmRCeLq0Qs)
