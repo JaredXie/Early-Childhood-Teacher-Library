@@ -101,29 +101,7 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 *Group time teaching ideas*
 - Counting
   - Sing '5 little monkeys jumping on the bed'. Use 5 little monkey puppets to visualise the drama and count with the children while seeing the monkeys become less and less.
-  - Read sensory number books
-  - [Sing a counting fingers song](https://www.youtube.com/shorts/0XvzrTMAPC8). This is a toddler room, so remember to do it slowly, do not need to count to 10, 5 is good enough.
-  - [Bunny counting song for toddler and preschool (this is also finger play)](https://www.youtube.com/shorts/H1AzPRxmUI8). 
-- Shape
-  - ...
-- Size
-  - ... 
-
-*Activities and setups*
-- Counting
-  - Teacher draws dots on hard papers, the challenge for children is to put the same number of clips or bonbons on the board.
-  - Similarly, teacher draw dots and write numbers on the papers divided into grids. Teacher write the same numbers on the post-it notes. Toddlers sort them out. ([see youtube](https://www.youtube.com/shorts/FkwNg_JYLbY))
-
-## Audio library
-
-For toddler educational purpose songs, I found one nice Youtuber [The Alana Banana Show - Educational Music Videos](https://www.youtube.com/@thealanabananashow/shorts)
-
-### *Indoor movement and emotional regulation*
-Songs
-- inanay
-- tabanaba
-- Fuzzy the clown ([Demo video](https://www.youtube.com/watch?v=gg18-mbjPjI) and [Music version](https://www.youtube.com/watch?v=8LPUA4_MQhE&list=RD8LPUA4_MQhE&start_radio=1))
-- Open shut them
+Toddler/
 - Sleeping bunny
 - Slippery fish
 - one little finger
@@ -150,6 +128,6 @@ Listen to Stories
 
 
 ## Activity library
-- [Sensory-colourwater](./docs/Sensory-color-water.mp4)
+- [Sensory-colourwater](./docs/Toddler/Sensory-color-water.mp4)
 - [Sensory-Finger Painting (Warning, this is a messy play)](https://www.youtube.com/watch?v=mbigTSiSY4A)
 - [Literacy-Counting, Sorting, Shaping Loose Part in the Nature](https://www.youtube.com/watch?v=NrmRCeLq0Qs)
