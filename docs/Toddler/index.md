@@ -65,7 +65,7 @@ This group time should be relaxed and flexible. The main purpose is to help chil
 
 ## Topics in terms of teacher intention and children's interests 
 
-Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) for your reference to observe children's interests and develop your own teaching intention. Apart from this, I also recommend we can plan our activities in terms of EYLF ([this webpage will be helpful](https://www.ectplanning.com/activities)) and education calender ([such as victoria](./Kinder.md##Australian-ECT-Annual-Planning-Calendar)) in your states. 
+Sometimes we run out of ideas. Here is a [map](./Resource/Toddlers-Mind-Map-A3.pdf) for your reference to observe children's interests and develop your own teaching intention. Apart from this, I also recommend we can plan our activities in terms of EYLF ([this webpage will be helpful](https://www.ectplanning.com/activities)) and education calender ([such as victoria](./Kinder.md##Australian-ECT-Annual-Planning-Calendar)) in your states. 
 
 ### *Expectations of our room*
 *Grouptime teaching ideas*
@@ -77,42 +77,7 @@ Sometimes we run out of ideas. Here is a [map](./docs/Toddlers-Mind-Map-A3.pdf) 
 - N/A, just put plants, loose parts, or something beautiful on the tables
 
 
-### *Animal*
-
-*Grouptime teaching ideas*
-- sing and read Brown bear Brown bear what do you see
-- sing o macdonal had a farm with animal toys on hand, then make the farm with children while singing. Engage children by asking about animal sounds, and where to set the animal in the farm.
-- animal sounds
-
-*Activities and setups*
-- toy animals and a big tree for animal farming
-
-
-### *Colour*
-
-*Group time teaching ideas*
-- match objects to the colour mat (colour papers and objects with different colours)
-- 
-
-*Activities and setups*
-- colour papers stick on the table and colourful objects such as Lego blocks in the middle
-
-### *Literacy*
-*Group time teaching ideas*
-- Counting
-  - Sing '5 little monkeys jumping on the bed'. Use 5 little monkey puppets to visualise the drama and count with the children while seeing the monkeys become less and less.
-Toddler/
-- Sleeping bunny
-- Slippery fish
-- one little finger
-- bee bee bumble bee (before washing hands)
-- Rain, rain go away
-- itsy bitsy spider ([demo video](https://www.youtube.com/shorts/p3uGY_-kEp0))
-
-Listen to Stories
-  - [Three Little Pigs](https://www.youtube.com/watch?v=-9NXxlFnZcU)
-  - [The Very Hungry Caterpillar](https://www.youtube.com/watch?v=i4CPSH6eQWE)
-  - 
+Resource
 ### *Outdoor movement songs*
 - Choochoowa
 - Hot potato
@@ -128,6 +93,6 @@ Listen to Stories
 
 
 ## Activity library
-- [Sensory-colourwater](./docs/Sensory-color-water.mp4)
+- [Sensory-colourwater](./Resource/Sensory-color-water.mp4)
 - [Sensory-Finger Painting (Warning, this is a messy play)](https://www.youtube.com/watch?v=mbigTSiSY4A)
 - [Literacy-Counting, Sorting, Shaping Loose Part in the Nature](https://www.youtube.com/watch?v=NrmRCeLq0Qs)
